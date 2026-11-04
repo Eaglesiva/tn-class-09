@@ -1,0 +1,373 @@
+{
+  "retrieval_timestamp_utc": "2026-11-04T19:19:54Z",
+  "source_api_url": "https://emis3.tnschools.gov.in/api/get_scert_books",
+  "raw_response_sha256": "404f283443b1f7a6a0fae814092aae556d0419ad2b4b2c0b0a0f7ebd756cc3e4",
+  "academic_records": {
+    "Tamil": {
+      "Term-Full": {
+        "16": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Tamil",
+          "term": "Term-Full",
+          "file_name": "9th_Tamil_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "English": {
+      "Term-Full": {
+        "19": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "English",
+          "term": "Term-Full",
+          "file_name": "9th English_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th English_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Mathematics": {
+      "Term-Full": {
+        "16": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Mathematics",
+          "term": "Term-Full",
+          "file_name": "9th_Maths_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Maths_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Mathematics",
+          "term": "Term-Full",
+          "file_name": "9th_Maths_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Maths_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        },
+        "17": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Mathematics",
+          "term": "Term-Full",
+          "file_name": "9th_Maths_Telugu_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Maths_Telugu_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Mathematics",
+          "term": "Term-Full",
+          "file_name": "9th Maths Malayalam Text Book_28-12-23.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Maths Malayalam Text Book_28-12-23.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Mathematics",
+          "term": "Term-Full",
+          "file_name": "9th Mathematics_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Mathematics_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "Science": {
+      "Term-Full": {
+        "16": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Science",
+          "term": "Term-Full",
+          "file_name": "9th_Science_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Science",
+          "term": "Term-Full",
+          "file_name": "9th_Science_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        },
+        "17": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Science",
+          "term": "Term-Full",
+          "file_name": "9th_Science_Telugu_Medium_Full_Book_Combined_Pg_360.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_Telugu_Medium_Full_Book_Combined_Pg_360.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Science",
+          "term": "Term-Full",
+          "file_name": "9th_Science_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Science",
+          "term": "Term-Full",
+          "file_name": "9th Science_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Science_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "Social Science": {
+      "Term-Full": {
+        "16": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Social Science",
+          "term": "Term-Full",
+          "file_name": "9th_Social Science_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Social Science_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Social Science",
+          "term": "Term-Full",
+          "file_name": "9th_Social Science_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Social Science_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        },
+        "17": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Social Science",
+          "term": "Term-Full",
+          "file_name": "9th_Social Science_Telugu Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Social Science_Telugu Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Social Science",
+          "term": "Term-Full",
+          "file_name": "9th Social Science Malayala Medium_Text_28-12-23.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Social Science Malayala Medium_Text_28-12-23.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Social Science",
+          "term": "Term-Full",
+          "file_name": "9th Social Science_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Social Science_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "Telugu Reader": {
+      "Term-Full": {
+        "17": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Telugu Reader",
+          "term": "Term-Full",
+          "file_name": "9th_Telugu_Reader_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Telugu_Reader_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        }
+      }
+    },
+    "Kannada Reader": {
+      "Term-Full": {
+        "5": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Kannada Reader",
+          "term": "Term-Full",
+          "file_name": "9th_Kannada_Reader_Text.pdf",
+          "medium": "5",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Kannada_Reader_Text.pdf",
+          "medium_name": "Kannada",
+          "type": "academic"
+        }
+      }
+    },
+    "Malayalam Reader": {
+      "Term-Full": {
+        "8": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Malayalam Reader",
+          "term": "Term-Full",
+          "file_name": "9th Std Malayalam Reader Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Std Malayalam Reader Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        }
+      }
+    },
+    "Urdu Reader": {
+      "Term-Full": {
+        "18": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Urdu Reader",
+          "term": "Term-Full",
+          "file_name": "9th_Urdu_Reader_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Urdu_Reader_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "Hindi Reader": {
+      "Term-Full": {
+        "4": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Hindi Reader",
+          "term": "Term-Full",
+          "file_name": "9th_Hindi_Reader_Text.pdf",
+          "medium": "4",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Hindi_Reader_Text.pdf",
+          "medium_name": "Hindi",
+          "type": "academic"
+        }
+      }
+    },
+    "Sanskrit Reader": {
+      "Term-Full": {
+        "14": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Sanskrit Reader",
+          "term": "Term-Full",
+          "file_name": "9th Std Sanskrit Reader Text.pdf",
+          "medium": "14",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th Std Sanskrit Reader Text.pdf",
+          "medium_name": "Sanskrit",
+          "type": "academic"
+        }
+      }
+    },
+    "Arabic Reader": {
+      "Term-Full": {
+        "31": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "Arabic Reader",
+          "term": "Term-Full",
+          "file_name": "9th_Arabic_Reader_Text.pdf",
+          "medium": "31",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Arabic_Reader_Text.pdf",
+          "medium_name": "Arabic",
+          "type": "academic"
+        }
+      }
+    },
+    "French Reader": {
+      "Term-Full": {
+        "29": {
+          "class_name": "IX",
+          "class_id": "9",
+          "subject": "French Reader",
+          "term": "Term-Full",
+          "file_name": "9th_French_Reader_Text.pdf",
+          "medium": "29",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_French_Reader_Text.pdf",
+          "medium_name": "French",
+          "type": "academic"
+        }
+      }
+    }
+  },
+  "valuation_records": [
+    {
+      "class_name": "IX",
+      "class_id": "9",
+      "subject": null,
+      "term": null,
+      "file_name": "9th_Std_Value_Education_Module.pdf",
+      "medium": "16",
+      "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/valuation_textbook/9th_Value Education Module/9th_Value Education_Module.pdf",
+      "medium_name": "Tamil",
+      "type": "valuation_textbook"
+    }
+  ],
+  "physical_education_records": {
+    "Physical Education - Teacher's Resource Book": {
+      "Tamil": {
+        "class_name": "IX",
+        "class_id": "9",
+        "subject": "Physical Education - Teacher's Resource Book",
+        "term": null,
+        "file_name": "6&10_Physical Education_TM_2026",
+        "medium": "16",
+        "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/6&10_Physical Education_TM_2026.pdf",
+        "medium_name": "Tamil",
+        "type": "physical_education"
+      },
+      "English": {
+        "class_name": "IX",
+        "class_id": "9",
+        "subject": "Physical Education - Teacher's Resource Book",
+        "term": null,
+        "file_name": "6&10_Physical Education_EM_2026",
+        "medium": "19",
+        "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/6&10_Physical Education_EM_2026_Text.pdf",
+        "medium_name": "English",
+        "type": "physical_education"
+      }
+    }
+  }
+}
