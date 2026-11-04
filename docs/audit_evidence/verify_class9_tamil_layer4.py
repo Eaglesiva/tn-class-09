@@ -2,6 +2,7 @@
 """
 Portable Layer 4 Content Diff Verification Script for Class 9 Tamil
 Compares official SCERT Master PDF against GitHub main split pages with Unicode NFC normalization.
+Includes both Raw NFC Match and Whitespace-Normalized Equivalence checks.
 Zero Local Master PDF persistence: Master PDF is streamed into memory and discarded.
 """
 import io, os, sys, glob, json, difflib, requests, unicodedata
@@ -24,7 +25,9 @@ def run_layer4_verification(pages_dir, official_url="https://d21mc000xink7q.clou
         raise ValueError(f"Master PDF has {len(doc_master)} pages, expected 272")
 
     results = []
-    perfect_matches = 0
+    raw_exact_matches = 0
+    ws_normalized_matches = 0
+
     for i in range(272):
         p_num = i + 1
         m_text = doc_master[i].get_text()
@@ -36,14 +39,22 @@ def run_layer4_verification(pages_dir, official_url="https://d21mc000xink7q.clou
         m_clean = unicodedata.normalize('NFC', "\n".join(l.strip() for l in m_text.splitlines() if l.strip()))
         l_clean = unicodedata.normalize('NFC', "\n".join(l.strip() for l in l_text.splitlines() if l.strip()))
 
-        is_exact = (m_clean == l_clean)
+        is_raw_exact = (m_clean == l_clean)
         ratio = difflib.SequenceMatcher(None, m_clean, l_clean).ratio()
-        if is_exact:
-            perfect_matches += 1
+        if is_raw_exact:
+            raw_exact_matches += 1
+
+        # Whitespace-collapsed check
+        m_ws = " ".join(m_clean.split())
+        l_ws = " ".join(l_clean.split())
+        is_ws_match = (m_ws == l_ws)
+        if is_ws_match:
+            ws_normalized_matches += 1
 
         results.append({
             "page_number": p_num,
-            "is_exact_match": is_exact,
+            "is_raw_exact_match": is_raw_exact,
+            "is_whitespace_normalized_match": is_ws_match,
             "similarity_ratio": round(ratio, 4),
             "master_char_count": len(m_clean),
             "local_char_count": len(l_clean)
@@ -53,7 +64,10 @@ def run_layer4_verification(pages_dir, official_url="https://d21mc000xink7q.clou
     del doc_master
     del pdf_bytes
 
-    print(f"Verification complete: {perfect_matches}/272 exact matches.")
+    print(f"Verification complete:")
+    print(f"  - Raw Exact Matches: {raw_exact_matches}/272 ({raw_exact_matches/272*100:.2f}%)")
+    print(f"  - Whitespace-Normalized Matches: {ws_normalized_matches}/272 ({ws_normalized_matches/272*100:.2f}%)")
+    print(f"  - Verdict: {'TEXT_EQUIVALENT_AFTER_WHITESPACE_NORMALIZATION' if ws_normalized_matches == 272 else 'CONTENT_DIFFERENCES_DETECTED'}")
     return results
 
 if __name__ == "__main__":

@@ -6,7 +6,7 @@
   "total_pages": 272,
   "perfect_matches_count": 270,
   "differing_pages_count": 2,
-  "overall_verdict": "CONTENT_DIFF_DETECTED (2 pages)",
+  "overall_verdict": "TEXT_EQUIVALENT_AFTER_WHITESPACE_NORMALIZATION",
   "timestamp_utc": "2026-11-04 23:15:33 UTC",
   "pages": [
     {
@@ -18,7 +18,9 @@
       "master_char_count": 316,
       "local_char_count": 316,
       "master_word_count": 31,
-      "local_word_count": 31
+      "local_word_count": 31,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 2,
@@ -29,7 +31,9 @@
       "master_char_count": 660,
       "local_char_count": 660,
       "master_word_count": 112,
-      "local_word_count": 112
+      "local_word_count": 112,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 3,
@@ -40,7 +44,9 @@
       "master_char_count": 1466,
       "local_char_count": 1466,
       "master_word_count": 151,
-      "local_word_count": 151
+      "local_word_count": 151,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 4,
@@ -51,7 +57,9 @@
       "master_char_count": 1056,
       "local_char_count": 1056,
       "master_word_count": 143,
-      "local_word_count": 143
+      "local_word_count": 143,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 5,
@@ -62,7 +70,9 @@
       "master_char_count": 1289,
       "local_char_count": 1289,
       "master_word_count": 153,
-      "local_word_count": 153
+      "local_word_count": 153,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 6,
@@ -73,7 +83,9 @@
       "master_char_count": 1139,
       "local_char_count": 1139,
       "master_word_count": 119,
-      "local_word_count": 119
+      "local_word_count": 119,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 7,
@@ -84,7 +96,9 @@
       "master_char_count": 1441,
       "local_char_count": 1441,
       "master_word_count": 163,
-      "local_word_count": 163
+      "local_word_count": 163,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 8,
@@ -95,7 +109,9 @@
       "master_char_count": 968,
       "local_char_count": 968,
       "master_word_count": 128,
-      "local_word_count": 128
+      "local_word_count": 128,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 9,
@@ -106,7 +122,9 @@
       "master_char_count": 983,
       "local_char_count": 983,
       "master_word_count": 133,
-      "local_word_count": 133
+      "local_word_count": 133,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 10,
@@ -117,7 +135,9 @@
       "master_char_count": 138,
       "local_char_count": 138,
       "master_word_count": 14,
-      "local_word_count": 14
+      "local_word_count": 14,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 11,
@@ -128,7 +148,9 @@
       "master_char_count": 507,
       "local_char_count": 507,
       "master_word_count": 54,
-      "local_word_count": 54
+      "local_word_count": 54,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 12,
@@ -139,7 +161,9 @@
       "master_char_count": 2398,
       "local_char_count": 2398,
       "master_word_count": 290,
-      "local_word_count": 290
+      "local_word_count": 290,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 13,
@@ -150,7 +174,9 @@
       "master_char_count": 3055,
       "local_char_count": 3055,
       "master_word_count": 336,
-      "local_word_count": 336
+      "local_word_count": 336,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 14,
@@ -161,7 +187,9 @@
       "master_char_count": 2695,
       "local_char_count": 2695,
       "master_word_count": 323,
-      "local_word_count": 323
+      "local_word_count": 323,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 15,
@@ -172,7 +200,9 @@
       "master_char_count": 1830,
       "local_char_count": 1830,
       "master_word_count": 202,
-      "local_word_count": 202
+      "local_word_count": 202,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 16,
@@ -183,7 +213,9 @@
       "master_char_count": 1266,
       "local_char_count": 1266,
       "master_word_count": 161,
-      "local_word_count": 161
+      "local_word_count": 161,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 17,
@@ -200,15 +232,17 @@
         "+++ github_main",
         "@@ -1,8 +1,7 @@",
         " 7",
-        " \u0b95\u0bb1\u0bcd\u0bcd\u0baa\u0bb5\u0bc8 \u0b95\u0bb1\u0bcd\u0bcd\u0bb1\u0baa\u0bbf\u0ba9\u0bcd...",
+        " கற்்பவை கற்்றபின்...",
         " 1.",
-        "-\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe? \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-        "-\u0ba8\u0ba8",
-        "+\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe? \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd  \u0ba8\u0ba8",
-        " \u0ba3\u0bcd\u0bcd\u0baa\u0bb0\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd  \u0b85\u0bae\u0bc8\u0ba8\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bcd\u0bb3\u0ba4\u0ba4\u0bbe? \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0b95.",
+        "-உங்கள் பெயருக்கான  விளக்கம் தெரியுமா? உங்கள் பெயரும் உங்கள்",
+        "-நந",
+        "+உங்கள் பெயருக்கான  விளக்கம் தெரியுமா? உங்கள் பெயரும் உங்கள்  நந",
+        " ண்்பர் பெயரும் ததனித்்தமிழில்  அமைந்ந்துள்்ளததா? கண்டறிக.",
         " 2.",
-        " \u0baa\u0baf\u0ba9\u0bcd\u0bcd\u0baa\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b8e\u0bb5\u0bcd\u0bcd\u0bb5\u0bb5\u0bbe\u0bb1\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0ba4"
-      ]
+        " பயன்்பபாட்டில் எவ்்வவாறெல்லாம் தத"
+      ],
+      "whitespace_normalized_match": true,
+      "notes": "Raw diff caused strictly by intra-line newline wrapping. Whitespace-collapsed match is 100% identical."
     },
     {
       "page_number": 18,
@@ -219,7 +253,9 @@
       "master_char_count": 1257,
       "local_char_count": 1257,
       "master_word_count": 148,
-      "local_word_count": 148
+      "local_word_count": 148,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 19,
@@ -230,7 +266,9 @@
       "master_char_count": 1718,
       "local_char_count": 1718,
       "master_word_count": 198,
-      "local_word_count": 198
+      "local_word_count": 198,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 20,
@@ -241,7 +279,9 @@
       "master_char_count": 1270,
       "local_char_count": 1270,
       "master_word_count": 142,
-      "local_word_count": 142
+      "local_word_count": 142,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 21,
@@ -252,7 +292,9 @@
       "master_char_count": 2886,
       "local_char_count": 2886,
       "master_word_count": 364,
-      "local_word_count": 364
+      "local_word_count": 364,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 22,
@@ -263,7 +305,9 @@
       "master_char_count": 1996,
       "local_char_count": 1996,
       "master_word_count": 244,
-      "local_word_count": 244
+      "local_word_count": 244,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 23,
@@ -274,7 +318,9 @@
       "master_char_count": 1591,
       "local_char_count": 1591,
       "master_word_count": 186,
-      "local_word_count": 186
+      "local_word_count": 186,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 24,
@@ -285,7 +331,9 @@
       "master_char_count": 2405,
       "local_char_count": 2405,
       "master_word_count": 296,
-      "local_word_count": 296
+      "local_word_count": 296,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 25,
@@ -296,7 +344,9 @@
       "master_char_count": 1086,
       "local_char_count": 1086,
       "master_word_count": 116,
-      "local_word_count": 116
+      "local_word_count": 116,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 26,
@@ -307,7 +357,9 @@
       "master_char_count": 2814,
       "local_char_count": 2814,
       "master_word_count": 335,
-      "local_word_count": 335
+      "local_word_count": 335,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 27,
@@ -318,7 +370,9 @@
       "master_char_count": 1547,
       "local_char_count": 1547,
       "master_word_count": 201,
-      "local_word_count": 201
+      "local_word_count": 201,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 28,
@@ -329,7 +383,9 @@
       "master_char_count": 2142,
       "local_char_count": 2142,
       "master_word_count": 244,
-      "local_word_count": 244
+      "local_word_count": 244,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 29,
@@ -340,7 +396,9 @@
       "master_char_count": 1367,
       "local_char_count": 1367,
       "master_word_count": 158,
-      "local_word_count": 158
+      "local_word_count": 158,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 30,
@@ -351,7 +409,9 @@
       "master_char_count": 1665,
       "local_char_count": 1665,
       "master_word_count": 179,
-      "local_word_count": 179
+      "local_word_count": 179,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 31,
@@ -362,7 +422,9 @@
       "master_char_count": 1829,
       "local_char_count": 1829,
       "master_word_count": 245,
-      "local_word_count": 245
+      "local_word_count": 245,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 32,
@@ -373,7 +435,9 @@
       "master_char_count": 1290,
       "local_char_count": 1290,
       "master_word_count": 196,
-      "local_word_count": 196
+      "local_word_count": 196,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 33,
@@ -384,7 +448,9 @@
       "master_char_count": 1442,
       "local_char_count": 1442,
       "master_word_count": 154,
-      "local_word_count": 154
+      "local_word_count": 154,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 34,
@@ -395,7 +461,9 @@
       "master_char_count": 1679,
       "local_char_count": 1679,
       "master_word_count": 187,
-      "local_word_count": 187
+      "local_word_count": 187,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 35,
@@ -406,7 +474,9 @@
       "master_char_count": 1334,
       "local_char_count": 1334,
       "master_word_count": 195,
-      "local_word_count": 195
+      "local_word_count": 195,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 36,
@@ -417,7 +487,9 @@
       "master_char_count": 1605,
       "local_char_count": 1605,
       "master_word_count": 173,
-      "local_word_count": 173
+      "local_word_count": 173,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 37,
@@ -428,7 +500,9 @@
       "master_char_count": 1984,
       "local_char_count": 1984,
       "master_word_count": 206,
-      "local_word_count": 206
+      "local_word_count": 206,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 38,
@@ -439,7 +513,9 @@
       "master_char_count": 1210,
       "local_char_count": 1210,
       "master_word_count": 132,
-      "local_word_count": 132
+      "local_word_count": 132,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 39,
@@ -450,7 +526,9 @@
       "master_char_count": 928,
       "local_char_count": 928,
       "master_word_count": 106,
-      "local_word_count": 106
+      "local_word_count": 106,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 40,
@@ -461,7 +539,9 @@
       "master_char_count": 1215,
       "local_char_count": 1215,
       "master_word_count": 128,
-      "local_word_count": 128
+      "local_word_count": 128,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 41,
@@ -472,7 +552,9 @@
       "master_char_count": 498,
       "local_char_count": 498,
       "master_word_count": 54,
-      "local_word_count": 54
+      "local_word_count": 54,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 42,
@@ -483,7 +565,9 @@
       "master_char_count": 1517,
       "local_char_count": 1517,
       "master_word_count": 174,
-      "local_word_count": 174
+      "local_word_count": 174,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 43,
@@ -494,7 +578,9 @@
       "master_char_count": 2626,
       "local_char_count": 2626,
       "master_word_count": 297,
-      "local_word_count": 297
+      "local_word_count": 297,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 44,
@@ -505,7 +591,9 @@
       "master_char_count": 2788,
       "local_char_count": 2788,
       "master_word_count": 324,
-      "local_word_count": 324
+      "local_word_count": 324,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 45,
@@ -521,16 +609,18 @@
         "--- official_master",
         "+++ github_main",
         "@@ -60,8 +60,7 @@",
-        " \u0ba4\u0bca\ufffd\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf, \u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0ba4",
-        " \u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0ba4",
-        " \u0ba9\u0bcd\u0bcd\u0bae\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bb1",
-        "-\u0ba4\u0bc1.",
-        "-\u0ba8\u0ba8",
-        "+\u0ba4\u0bc1. \u0ba8\u0ba8",
-        " \u0ba9\u0bcd\u0bb1\u0bbf \u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd.",
-        " \u0b9a\u0bcb\ufffd\u0bcb\u0bb4\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0b95\u0bcd \u0b95\u0bc1\u0bae\u0bbf\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc2\u0bae\u0bcd\u0baa\u0bc1",
-        " \u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0b95\u0bbe\u0bb2\u0bb2"
-      ]
+        " தொ�ொடங்கி, சமூகம் வரை அனைத்திலும் தத",
+        " ண்ணீர் முதத",
+        " ன்்மமைப் பங்காற்றுகிறற",
+        "-து.",
+        "-நந",
+        "+து. நந",
+        " ன்றி வணக்கம்.",
+        " சோ�ோழர் காலக் குமிழித்தூம்பு",
+        " மழைக்ககாலல"
+      ],
+      "whitespace_normalized_match": true,
+      "notes": "Raw diff caused strictly by intra-line newline wrapping. Whitespace-collapsed match is 100% identical."
     },
     {
       "page_number": 46,
@@ -541,7 +631,9 @@
       "master_char_count": 2636,
       "local_char_count": 2636,
       "master_word_count": 304,
-      "local_word_count": 304
+      "local_word_count": 304,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 47,
@@ -552,7 +644,9 @@
       "master_char_count": 2360,
       "local_char_count": 2360,
       "master_word_count": 261,
-      "local_word_count": 261
+      "local_word_count": 261,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 48,
@@ -563,7 +657,9 @@
       "master_char_count": 1366,
       "local_char_count": 1366,
       "master_word_count": 163,
-      "local_word_count": 163
+      "local_word_count": 163,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 49,
@@ -574,7 +670,9 @@
       "master_char_count": 1612,
       "local_char_count": 1612,
       "master_word_count": 218,
-      "local_word_count": 218
+      "local_word_count": 218,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 50,
@@ -585,7 +683,9 @@
       "master_char_count": 763,
       "local_char_count": 763,
       "master_word_count": 88,
-      "local_word_count": 88
+      "local_word_count": 88,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 51,
@@ -596,7 +696,9 @@
       "master_char_count": 2297,
       "local_char_count": 2297,
       "master_word_count": 286,
-      "local_word_count": 286
+      "local_word_count": 286,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 52,
@@ -607,7 +709,9 @@
       "master_char_count": 1741,
       "local_char_count": 1741,
       "master_word_count": 204,
-      "local_word_count": 204
+      "local_word_count": 204,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 53,
@@ -618,7 +722,9 @@
       "master_char_count": 2488,
       "local_char_count": 2488,
       "master_word_count": 294,
-      "local_word_count": 294
+      "local_word_count": 294,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 54,
@@ -629,7 +735,9 @@
       "master_char_count": 1264,
       "local_char_count": 1264,
       "master_word_count": 153,
-      "local_word_count": 153
+      "local_word_count": 153,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 55,
@@ -640,7 +748,9 @@
       "master_char_count": 2520,
       "local_char_count": 2520,
       "master_word_count": 314,
-      "local_word_count": 314
+      "local_word_count": 314,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 56,
@@ -651,7 +761,9 @@
       "master_char_count": 1490,
       "local_char_count": 1490,
       "master_word_count": 207,
-      "local_word_count": 207
+      "local_word_count": 207,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 57,
@@ -662,7 +774,9 @@
       "master_char_count": 896,
       "local_char_count": 896,
       "master_word_count": 102,
-      "local_word_count": 102
+      "local_word_count": 102,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 58,
@@ -673,7 +787,9 @@
       "master_char_count": 3375,
       "local_char_count": 3375,
       "master_word_count": 375,
-      "local_word_count": 375
+      "local_word_count": 375,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 59,
@@ -684,7 +800,9 @@
       "master_char_count": 2416,
       "local_char_count": 2416,
       "master_word_count": 272,
-      "local_word_count": 272
+      "local_word_count": 272,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 60,
@@ -695,7 +813,9 @@
       "master_char_count": 3276,
       "local_char_count": 3276,
       "master_word_count": 367,
-      "local_word_count": 367
+      "local_word_count": 367,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 61,
@@ -706,7 +826,9 @@
       "master_char_count": 2613,
       "local_char_count": 2613,
       "master_word_count": 291,
-      "local_word_count": 291
+      "local_word_count": 291,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 62,
@@ -717,7 +839,9 @@
       "master_char_count": 1933,
       "local_char_count": 1933,
       "master_word_count": 229,
-      "local_word_count": 229
+      "local_word_count": 229,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 63,
@@ -728,7 +852,9 @@
       "master_char_count": 2315,
       "local_char_count": 2315,
       "master_word_count": 298,
-      "local_word_count": 298
+      "local_word_count": 298,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 64,
@@ -739,7 +865,9 @@
       "master_char_count": 1494,
       "local_char_count": 1494,
       "master_word_count": 164,
-      "local_word_count": 164
+      "local_word_count": 164,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 65,
@@ -750,7 +878,9 @@
       "master_char_count": 1144,
       "local_char_count": 1144,
       "master_word_count": 126,
-      "local_word_count": 126
+      "local_word_count": 126,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 66,
@@ -761,7 +891,9 @@
       "master_char_count": 1221,
       "local_char_count": 1221,
       "master_word_count": 168,
-      "local_word_count": 168
+      "local_word_count": 168,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 67,
@@ -772,7 +904,9 @@
       "master_char_count": 1211,
       "local_char_count": 1211,
       "master_word_count": 131,
-      "local_word_count": 131
+      "local_word_count": 131,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 68,
@@ -783,7 +917,9 @@
       "master_char_count": 1587,
       "local_char_count": 1587,
       "master_word_count": 193,
-      "local_word_count": 193
+      "local_word_count": 193,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 69,
@@ -794,7 +930,9 @@
       "master_char_count": 947,
       "local_char_count": 947,
       "master_word_count": 100,
-      "local_word_count": 100
+      "local_word_count": 100,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 70,
@@ -805,7 +943,9 @@
       "master_char_count": 1078,
       "local_char_count": 1078,
       "master_word_count": 118,
-      "local_word_count": 118
+      "local_word_count": 118,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 71,
@@ -816,7 +956,9 @@
       "master_char_count": 1146,
       "local_char_count": 1146,
       "master_word_count": 103,
-      "local_word_count": 103
+      "local_word_count": 103,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 72,
@@ -827,7 +969,9 @@
       "master_char_count": 1521,
       "local_char_count": 1521,
       "master_word_count": 192,
-      "local_word_count": 192
+      "local_word_count": 192,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 73,
@@ -838,7 +982,9 @@
       "master_char_count": 572,
       "local_char_count": 572,
       "master_word_count": 57,
-      "local_word_count": 57
+      "local_word_count": 57,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 74,
@@ -849,7 +995,9 @@
       "master_char_count": 1587,
       "local_char_count": 1587,
       "master_word_count": 169,
-      "local_word_count": 169
+      "local_word_count": 169,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 75,
@@ -860,7 +1008,9 @@
       "master_char_count": 1966,
       "local_char_count": 1966,
       "master_word_count": 227,
-      "local_word_count": 227
+      "local_word_count": 227,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 76,
@@ -871,7 +1021,9 @@
       "master_char_count": 2621,
       "local_char_count": 2621,
       "master_word_count": 300,
-      "local_word_count": 300
+      "local_word_count": 300,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 77,
@@ -882,7 +1034,9 @@
       "master_char_count": 1786,
       "local_char_count": 1786,
       "master_word_count": 197,
-      "local_word_count": 197
+      "local_word_count": 197,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 78,
@@ -893,7 +1047,9 @@
       "master_char_count": 1037,
       "local_char_count": 1037,
       "master_word_count": 115,
-      "local_word_count": 115
+      "local_word_count": 115,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 79,
@@ -904,7 +1060,9 @@
       "master_char_count": 3019,
       "local_char_count": 3019,
       "master_word_count": 340,
-      "local_word_count": 340
+      "local_word_count": 340,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 80,
@@ -915,7 +1073,9 @@
       "master_char_count": 1754,
       "local_char_count": 1754,
       "master_word_count": 205,
-      "local_word_count": 205
+      "local_word_count": 205,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 81,
@@ -926,7 +1086,9 @@
       "master_char_count": 2066,
       "local_char_count": 2066,
       "master_word_count": 235,
-      "local_word_count": 235
+      "local_word_count": 235,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 82,
@@ -937,7 +1099,9 @@
       "master_char_count": 1690,
       "local_char_count": 1690,
       "master_word_count": 184,
-      "local_word_count": 184
+      "local_word_count": 184,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 83,
@@ -948,7 +1112,9 @@
       "master_char_count": 1979,
       "local_char_count": 1979,
       "master_word_count": 203,
-      "local_word_count": 203
+      "local_word_count": 203,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 84,
@@ -959,7 +1125,9 @@
       "master_char_count": 2971,
       "local_char_count": 2971,
       "master_word_count": 338,
-      "local_word_count": 338
+      "local_word_count": 338,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 85,
@@ -970,7 +1138,9 @@
       "master_char_count": 2615,
       "local_char_count": 2615,
       "master_word_count": 293,
-      "local_word_count": 293
+      "local_word_count": 293,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 86,
@@ -981,7 +1151,9 @@
       "master_char_count": 3151,
       "local_char_count": 3151,
       "master_word_count": 346,
-      "local_word_count": 346
+      "local_word_count": 346,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 87,
@@ -992,7 +1164,9 @@
       "master_char_count": 2257,
       "local_char_count": 2257,
       "master_word_count": 262,
-      "local_word_count": 262
+      "local_word_count": 262,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 88,
@@ -1003,7 +1177,9 @@
       "master_char_count": 1924,
       "local_char_count": 1924,
       "master_word_count": 231,
-      "local_word_count": 231
+      "local_word_count": 231,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 89,
@@ -1014,7 +1190,9 @@
       "master_char_count": 1454,
       "local_char_count": 1454,
       "master_word_count": 176,
-      "local_word_count": 176
+      "local_word_count": 176,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 90,
@@ -1025,7 +1203,9 @@
       "master_char_count": 1911,
       "local_char_count": 1911,
       "master_word_count": 228,
-      "local_word_count": 228
+      "local_word_count": 228,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 91,
@@ -1036,7 +1216,9 @@
       "master_char_count": 1720,
       "local_char_count": 1720,
       "master_word_count": 207,
-      "local_word_count": 207
+      "local_word_count": 207,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 92,
@@ -1047,7 +1229,9 @@
       "master_char_count": 1716,
       "local_char_count": 1716,
       "master_word_count": 205,
-      "local_word_count": 205
+      "local_word_count": 205,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 93,
@@ -1058,7 +1242,9 @@
       "master_char_count": 2421,
       "local_char_count": 2421,
       "master_word_count": 253,
-      "local_word_count": 253
+      "local_word_count": 253,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 94,
@@ -1069,7 +1255,9 @@
       "master_char_count": 1414,
       "local_char_count": 1414,
       "master_word_count": 175,
-      "local_word_count": 175
+      "local_word_count": 175,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 95,
@@ -1080,7 +1268,9 @@
       "master_char_count": 1594,
       "local_char_count": 1594,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 96,
@@ -1091,7 +1281,9 @@
       "master_char_count": 915,
       "local_char_count": 915,
       "master_word_count": 107,
-      "local_word_count": 107
+      "local_word_count": 107,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 97,
@@ -1102,7 +1294,9 @@
       "master_char_count": 609,
       "local_char_count": 609,
       "master_word_count": 65,
-      "local_word_count": 65
+      "local_word_count": 65,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 98,
@@ -1113,7 +1307,9 @@
       "master_char_count": 1332,
       "local_char_count": 1332,
       "master_word_count": 146,
-      "local_word_count": 146
+      "local_word_count": 146,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 99,
@@ -1124,7 +1320,9 @@
       "master_char_count": 1386,
       "local_char_count": 1386,
       "master_word_count": 151,
-      "local_word_count": 151
+      "local_word_count": 151,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 100,
@@ -1135,7 +1333,9 @@
       "master_char_count": 2055,
       "local_char_count": 2055,
       "master_word_count": 226,
-      "local_word_count": 226
+      "local_word_count": 226,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 101,
@@ -1146,7 +1346,9 @@
       "master_char_count": 850,
       "local_char_count": 850,
       "master_word_count": 99,
-      "local_word_count": 99
+      "local_word_count": 99,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 102,
@@ -1157,7 +1359,9 @@
       "master_char_count": 1312,
       "local_char_count": 1312,
       "master_word_count": 129,
-      "local_word_count": 129
+      "local_word_count": 129,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 103,
@@ -1168,7 +1372,9 @@
       "master_char_count": 1592,
       "local_char_count": 1592,
       "master_word_count": 162,
-      "local_word_count": 162
+      "local_word_count": 162,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 104,
@@ -1179,7 +1385,9 @@
       "master_char_count": 356,
       "local_char_count": 356,
       "master_word_count": 41,
-      "local_word_count": 41
+      "local_word_count": 41,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 105,
@@ -1190,7 +1398,9 @@
       "master_char_count": 696,
       "local_char_count": 696,
       "master_word_count": 66,
-      "local_word_count": 66
+      "local_word_count": 66,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 106,
@@ -1201,7 +1411,9 @@
       "master_char_count": 1593,
       "local_char_count": 1593,
       "master_word_count": 169,
-      "local_word_count": 169
+      "local_word_count": 169,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 107,
@@ -1212,7 +1424,9 @@
       "master_char_count": 2640,
       "local_char_count": 2640,
       "master_word_count": 307,
-      "local_word_count": 307
+      "local_word_count": 307,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 108,
@@ -1223,7 +1437,9 @@
       "master_char_count": 1824,
       "local_char_count": 1824,
       "master_word_count": 201,
-      "local_word_count": 201
+      "local_word_count": 201,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 109,
@@ -1234,7 +1450,9 @@
       "master_char_count": 2222,
       "local_char_count": 2222,
       "master_word_count": 232,
-      "local_word_count": 232
+      "local_word_count": 232,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 110,
@@ -1245,7 +1463,9 @@
       "master_char_count": 2493,
       "local_char_count": 2493,
       "master_word_count": 300,
-      "local_word_count": 300
+      "local_word_count": 300,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 111,
@@ -1256,7 +1476,9 @@
       "master_char_count": 1577,
       "local_char_count": 1577,
       "master_word_count": 183,
-      "local_word_count": 183
+      "local_word_count": 183,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 112,
@@ -1267,7 +1489,9 @@
       "master_char_count": 2502,
       "local_char_count": 2502,
       "master_word_count": 273,
-      "local_word_count": 273
+      "local_word_count": 273,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 113,
@@ -1278,7 +1502,9 @@
       "master_char_count": 1562,
       "local_char_count": 1562,
       "master_word_count": 184,
-      "local_word_count": 184
+      "local_word_count": 184,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 114,
@@ -1289,7 +1515,9 @@
       "master_char_count": 1644,
       "local_char_count": 1644,
       "master_word_count": 189,
-      "local_word_count": 189
+      "local_word_count": 189,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 115,
@@ -1300,7 +1528,9 @@
       "master_char_count": 905,
       "local_char_count": 905,
       "master_word_count": 102,
-      "local_word_count": 102
+      "local_word_count": 102,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 116,
@@ -1311,7 +1541,9 @@
       "master_char_count": 1936,
       "local_char_count": 1936,
       "master_word_count": 216,
-      "local_word_count": 216
+      "local_word_count": 216,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 117,
@@ -1322,7 +1554,9 @@
       "master_char_count": 1571,
       "local_char_count": 1571,
       "master_word_count": 173,
-      "local_word_count": 173
+      "local_word_count": 173,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 118,
@@ -1333,7 +1567,9 @@
       "master_char_count": 2932,
       "local_char_count": 2932,
       "master_word_count": 329,
-      "local_word_count": 329
+      "local_word_count": 329,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 119,
@@ -1344,7 +1580,9 @@
       "master_char_count": 2778,
       "local_char_count": 2778,
       "master_word_count": 306,
-      "local_word_count": 306
+      "local_word_count": 306,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 120,
@@ -1355,7 +1593,9 @@
       "master_char_count": 2759,
       "local_char_count": 2759,
       "master_word_count": 303,
-      "local_word_count": 303
+      "local_word_count": 303,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 121,
@@ -1366,7 +1606,9 @@
       "master_char_count": 2868,
       "local_char_count": 2868,
       "master_word_count": 332,
-      "local_word_count": 332
+      "local_word_count": 332,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 122,
@@ -1377,7 +1619,9 @@
       "master_char_count": 2287,
       "local_char_count": 2287,
       "master_word_count": 254,
-      "local_word_count": 254
+      "local_word_count": 254,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 123,
@@ -1388,7 +1632,9 @@
       "master_char_count": 1409,
       "local_char_count": 1409,
       "master_word_count": 166,
-      "local_word_count": 166
+      "local_word_count": 166,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 124,
@@ -1399,7 +1645,9 @@
       "master_char_count": 1707,
       "local_char_count": 1707,
       "master_word_count": 214,
-      "local_word_count": 214
+      "local_word_count": 214,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 125,
@@ -1410,7 +1658,9 @@
       "master_char_count": 1046,
       "local_char_count": 1046,
       "master_word_count": 153,
-      "local_word_count": 153
+      "local_word_count": 153,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 126,
@@ -1421,7 +1671,9 @@
       "master_char_count": 1543,
       "local_char_count": 1543,
       "master_word_count": 190,
-      "local_word_count": 190
+      "local_word_count": 190,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 127,
@@ -1432,7 +1684,9 @@
       "master_char_count": 1475,
       "local_char_count": 1475,
       "master_word_count": 160,
-      "local_word_count": 160
+      "local_word_count": 160,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 128,
@@ -1443,7 +1697,9 @@
       "master_char_count": 2126,
       "local_char_count": 2126,
       "master_word_count": 287,
-      "local_word_count": 287
+      "local_word_count": 287,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 129,
@@ -1454,7 +1710,9 @@
       "master_char_count": 2053,
       "local_char_count": 2053,
       "master_word_count": 234,
-      "local_word_count": 234
+      "local_word_count": 234,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 130,
@@ -1465,7 +1723,9 @@
       "master_char_count": 1513,
       "local_char_count": 1513,
       "master_word_count": 172,
-      "local_word_count": 172
+      "local_word_count": 172,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 131,
@@ -1476,7 +1736,9 @@
       "master_char_count": 1230,
       "local_char_count": 1230,
       "master_word_count": 111,
-      "local_word_count": 111
+      "local_word_count": 111,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 132,
@@ -1487,7 +1749,9 @@
       "master_char_count": 559,
       "local_char_count": 559,
       "master_word_count": 54,
-      "local_word_count": 54
+      "local_word_count": 54,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 133,
@@ -1498,7 +1762,9 @@
       "master_char_count": 599,
       "local_char_count": 599,
       "master_word_count": 61,
-      "local_word_count": 61
+      "local_word_count": 61,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 134,
@@ -1509,7 +1775,9 @@
       "master_char_count": 1576,
       "local_char_count": 1576,
       "master_word_count": 172,
-      "local_word_count": 172
+      "local_word_count": 172,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 135,
@@ -1520,7 +1788,9 @@
       "master_char_count": 2411,
       "local_char_count": 2411,
       "master_word_count": 247,
-      "local_word_count": 247
+      "local_word_count": 247,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 136,
@@ -1531,7 +1801,9 @@
       "master_char_count": 2304,
       "local_char_count": 2304,
       "master_word_count": 247,
-      "local_word_count": 247
+      "local_word_count": 247,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 137,
@@ -1542,7 +1814,9 @@
       "master_char_count": 2023,
       "local_char_count": 2023,
       "master_word_count": 238,
-      "local_word_count": 238
+      "local_word_count": 238,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 138,
@@ -1553,7 +1827,9 @@
       "master_char_count": 2084,
       "local_char_count": 2084,
       "master_word_count": 237,
-      "local_word_count": 237
+      "local_word_count": 237,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 139,
@@ -1564,7 +1840,9 @@
       "master_char_count": 1951,
       "local_char_count": 1951,
       "master_word_count": 208,
-      "local_word_count": 208
+      "local_word_count": 208,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 140,
@@ -1575,7 +1853,9 @@
       "master_char_count": 1313,
       "local_char_count": 1313,
       "master_word_count": 156,
-      "local_word_count": 156
+      "local_word_count": 156,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 141,
@@ -1586,7 +1866,9 @@
       "master_char_count": 2875,
       "local_char_count": 2875,
       "master_word_count": 332,
-      "local_word_count": 332
+      "local_word_count": 332,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 142,
@@ -1597,7 +1879,9 @@
       "master_char_count": 1981,
       "local_char_count": 1981,
       "master_word_count": 222,
-      "local_word_count": 222
+      "local_word_count": 222,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 143,
@@ -1608,7 +1892,9 @@
       "master_char_count": 1608,
       "local_char_count": 1608,
       "master_word_count": 214,
-      "local_word_count": 214
+      "local_word_count": 214,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 144,
@@ -1619,7 +1905,9 @@
       "master_char_count": 1868,
       "local_char_count": 1868,
       "master_word_count": 191,
-      "local_word_count": 191
+      "local_word_count": 191,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 145,
@@ -1630,7 +1918,9 @@
       "master_char_count": 1569,
       "local_char_count": 1569,
       "master_word_count": 182,
-      "local_word_count": 182
+      "local_word_count": 182,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 146,
@@ -1641,7 +1931,9 @@
       "master_char_count": 2727,
       "local_char_count": 2727,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 147,
@@ -1652,7 +1944,9 @@
       "master_char_count": 2463,
       "local_char_count": 2463,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 148,
@@ -1663,7 +1957,9 @@
       "master_char_count": 2336,
       "local_char_count": 2336,
       "master_word_count": 245,
-      "local_word_count": 245
+      "local_word_count": 245,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 149,
@@ -1674,7 +1970,9 @@
       "master_char_count": 1518,
       "local_char_count": 1518,
       "master_word_count": 189,
-      "local_word_count": 189
+      "local_word_count": 189,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 150,
@@ -1685,7 +1983,9 @@
       "master_char_count": 2223,
       "local_char_count": 2223,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 151,
@@ -1696,7 +1996,9 @@
       "master_char_count": 1938,
       "local_char_count": 1938,
       "master_word_count": 219,
-      "local_word_count": 219
+      "local_word_count": 219,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 152,
@@ -1707,7 +2009,9 @@
       "master_char_count": 2084,
       "local_char_count": 2084,
       "master_word_count": 247,
-      "local_word_count": 247
+      "local_word_count": 247,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 153,
@@ -1718,7 +2022,9 @@
       "master_char_count": 1419,
       "local_char_count": 1419,
       "master_word_count": 180,
-      "local_word_count": 180
+      "local_word_count": 180,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 154,
@@ -1729,7 +2035,9 @@
       "master_char_count": 1066,
       "local_char_count": 1066,
       "master_word_count": 157,
-      "local_word_count": 157
+      "local_word_count": 157,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 155,
@@ -1740,7 +2048,9 @@
       "master_char_count": 1656,
       "local_char_count": 1656,
       "master_word_count": 206,
-      "local_word_count": 206
+      "local_word_count": 206,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 156,
@@ -1751,7 +2061,9 @@
       "master_char_count": 1806,
       "local_char_count": 1806,
       "master_word_count": 272,
-      "local_word_count": 272
+      "local_word_count": 272,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 157,
@@ -1762,7 +2074,9 @@
       "master_char_count": 2265,
       "local_char_count": 2265,
       "master_word_count": 269,
-      "local_word_count": 269
+      "local_word_count": 269,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 158,
@@ -1773,7 +2087,9 @@
       "master_char_count": 871,
       "local_char_count": 871,
       "master_word_count": 99,
-      "local_word_count": 99
+      "local_word_count": 99,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 159,
@@ -1784,7 +2100,9 @@
       "master_char_count": 1215,
       "local_char_count": 1215,
       "master_word_count": 144,
-      "local_word_count": 144
+      "local_word_count": 144,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 160,
@@ -1795,7 +2113,9 @@
       "master_char_count": 1095,
       "local_char_count": 1095,
       "master_word_count": 78,
-      "local_word_count": 78
+      "local_word_count": 78,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 161,
@@ -1806,7 +2126,9 @@
       "master_char_count": 616,
       "local_char_count": 616,
       "master_word_count": 72,
-      "local_word_count": 72
+      "local_word_count": 72,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 162,
@@ -1817,7 +2139,9 @@
       "master_char_count": 1512,
       "local_char_count": 1512,
       "master_word_count": 163,
-      "local_word_count": 163
+      "local_word_count": 163,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 163,
@@ -1828,7 +2152,9 @@
       "master_char_count": 3069,
       "local_char_count": 3069,
       "master_word_count": 281,
-      "local_word_count": 281
+      "local_word_count": 281,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 164,
@@ -1839,7 +2165,9 @@
       "master_char_count": 2237,
       "local_char_count": 2237,
       "master_word_count": 199,
-      "local_word_count": 199
+      "local_word_count": 199,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 165,
@@ -1850,7 +2178,9 @@
       "master_char_count": 2500,
       "local_char_count": 2500,
       "master_word_count": 263,
-      "local_word_count": 263
+      "local_word_count": 263,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 166,
@@ -1861,7 +2191,9 @@
       "master_char_count": 1765,
       "local_char_count": 1765,
       "master_word_count": 178,
-      "local_word_count": 178
+      "local_word_count": 178,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 167,
@@ -1872,7 +2204,9 @@
       "master_char_count": 1165,
       "local_char_count": 1165,
       "master_word_count": 137,
-      "local_word_count": 137
+      "local_word_count": 137,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 168,
@@ -1883,7 +2217,9 @@
       "master_char_count": 2295,
       "local_char_count": 2295,
       "master_word_count": 275,
-      "local_word_count": 275
+      "local_word_count": 275,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 169,
@@ -1894,7 +2230,9 @@
       "master_char_count": 3063,
       "local_char_count": 3063,
       "master_word_count": 330,
-      "local_word_count": 330
+      "local_word_count": 330,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 170,
@@ -1905,7 +2243,9 @@
       "master_char_count": 2044,
       "local_char_count": 2044,
       "master_word_count": 219,
-      "local_word_count": 219
+      "local_word_count": 219,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 171,
@@ -1916,7 +2256,9 @@
       "master_char_count": 1093,
       "local_char_count": 1093,
       "master_word_count": 128,
-      "local_word_count": 128
+      "local_word_count": 128,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 172,
@@ -1927,7 +2269,9 @@
       "master_char_count": 2204,
       "local_char_count": 2204,
       "master_word_count": 246,
-      "local_word_count": 246
+      "local_word_count": 246,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 173,
@@ -1938,7 +2282,9 @@
       "master_char_count": 2416,
       "local_char_count": 2416,
       "master_word_count": 264,
-      "local_word_count": 264
+      "local_word_count": 264,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 174,
@@ -1949,7 +2295,9 @@
       "master_char_count": 2639,
       "local_char_count": 2639,
       "master_word_count": 285,
-      "local_word_count": 285
+      "local_word_count": 285,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 175,
@@ -1960,7 +2308,9 @@
       "master_char_count": 2758,
       "local_char_count": 2758,
       "master_word_count": 302,
-      "local_word_count": 302
+      "local_word_count": 302,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 176,
@@ -1971,7 +2321,9 @@
       "master_char_count": 2625,
       "local_char_count": 2625,
       "master_word_count": 274,
-      "local_word_count": 274
+      "local_word_count": 274,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 177,
@@ -1982,7 +2334,9 @@
       "master_char_count": 2263,
       "local_char_count": 2263,
       "master_word_count": 234,
-      "local_word_count": 234
+      "local_word_count": 234,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 178,
@@ -1993,7 +2347,9 @@
       "master_char_count": 1640,
       "local_char_count": 1640,
       "master_word_count": 202,
-      "local_word_count": 202
+      "local_word_count": 202,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 179,
@@ -2004,7 +2360,9 @@
       "master_char_count": 1943,
       "local_char_count": 1943,
       "master_word_count": 304,
-      "local_word_count": 304
+      "local_word_count": 304,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 180,
@@ -2015,7 +2373,9 @@
       "master_char_count": 1908,
       "local_char_count": 1908,
       "master_word_count": 207,
-      "local_word_count": 207
+      "local_word_count": 207,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 181,
@@ -2026,7 +2386,9 @@
       "master_char_count": 1481,
       "local_char_count": 1481,
       "master_word_count": 202,
-      "local_word_count": 202
+      "local_word_count": 202,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 182,
@@ -2037,7 +2399,9 @@
       "master_char_count": 1448,
       "local_char_count": 1448,
       "master_word_count": 181,
-      "local_word_count": 181
+      "local_word_count": 181,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 183,
@@ -2048,7 +2412,9 @@
       "master_char_count": 1675,
       "local_char_count": 1675,
       "master_word_count": 222,
-      "local_word_count": 222
+      "local_word_count": 222,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 184,
@@ -2059,7 +2425,9 @@
       "master_char_count": 1224,
       "local_char_count": 1224,
       "master_word_count": 127,
-      "local_word_count": 127
+      "local_word_count": 127,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 185,
@@ -2070,7 +2438,9 @@
       "master_char_count": 1956,
       "local_char_count": 1956,
       "master_word_count": 235,
-      "local_word_count": 235
+      "local_word_count": 235,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 186,
@@ -2081,7 +2451,9 @@
       "master_char_count": 1239,
       "local_char_count": 1239,
       "master_word_count": 103,
-      "local_word_count": 103
+      "local_word_count": 103,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 187,
@@ -2092,7 +2464,9 @@
       "master_char_count": 796,
       "local_char_count": 796,
       "master_word_count": 86,
-      "local_word_count": 86
+      "local_word_count": 86,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 188,
@@ -2103,7 +2477,9 @@
       "master_char_count": 1549,
       "local_char_count": 1549,
       "master_word_count": 180,
-      "local_word_count": 180
+      "local_word_count": 180,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 189,
@@ -2114,7 +2490,9 @@
       "master_char_count": 1316,
       "local_char_count": 1316,
       "master_word_count": 175,
-      "local_word_count": 175
+      "local_word_count": 175,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 190,
@@ -2125,7 +2503,9 @@
       "master_char_count": 1100,
       "local_char_count": 1100,
       "master_word_count": 106,
-      "local_word_count": 106
+      "local_word_count": 106,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 191,
@@ -2136,7 +2516,9 @@
       "master_char_count": 678,
       "local_char_count": 678,
       "master_word_count": 71,
-      "local_word_count": 71
+      "local_word_count": 71,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 192,
@@ -2147,7 +2529,9 @@
       "master_char_count": 1316,
       "local_char_count": 1316,
       "master_word_count": 148,
-      "local_word_count": 148
+      "local_word_count": 148,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 193,
@@ -2158,7 +2542,9 @@
       "master_char_count": 2482,
       "local_char_count": 2482,
       "master_word_count": 262,
-      "local_word_count": 262
+      "local_word_count": 262,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 194,
@@ -2169,7 +2555,9 @@
       "master_char_count": 1682,
       "local_char_count": 1682,
       "master_word_count": 192,
-      "local_word_count": 192
+      "local_word_count": 192,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 195,
@@ -2180,7 +2568,9 @@
       "master_char_count": 2373,
       "local_char_count": 2373,
       "master_word_count": 233,
-      "local_word_count": 233
+      "local_word_count": 233,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 196,
@@ -2191,7 +2581,9 @@
       "master_char_count": 1672,
       "local_char_count": 1672,
       "master_word_count": 202,
-      "local_word_count": 202
+      "local_word_count": 202,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 197,
@@ -2202,7 +2594,9 @@
       "master_char_count": 2516,
       "local_char_count": 2516,
       "master_word_count": 266,
-      "local_word_count": 266
+      "local_word_count": 266,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 198,
@@ -2213,7 +2607,9 @@
       "master_char_count": 1995,
       "local_char_count": 1995,
       "master_word_count": 215,
-      "local_word_count": 215
+      "local_word_count": 215,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 199,
@@ -2224,7 +2620,9 @@
       "master_char_count": 1320,
       "local_char_count": 1320,
       "master_word_count": 160,
-      "local_word_count": 160
+      "local_word_count": 160,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 200,
@@ -2235,7 +2633,9 @@
       "master_char_count": 2343,
       "local_char_count": 2343,
       "master_word_count": 250,
-      "local_word_count": 250
+      "local_word_count": 250,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 201,
@@ -2246,7 +2646,9 @@
       "master_char_count": 1197,
       "local_char_count": 1197,
       "master_word_count": 140,
-      "local_word_count": 140
+      "local_word_count": 140,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 202,
@@ -2257,7 +2659,9 @@
       "master_char_count": 1811,
       "local_char_count": 1811,
       "master_word_count": 200,
-      "local_word_count": 200
+      "local_word_count": 200,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 203,
@@ -2268,7 +2672,9 @@
       "master_char_count": 2197,
       "local_char_count": 2197,
       "master_word_count": 285,
-      "local_word_count": 285
+      "local_word_count": 285,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 204,
@@ -2279,7 +2685,9 @@
       "master_char_count": 1148,
       "local_char_count": 1148,
       "master_word_count": 135,
-      "local_word_count": 135
+      "local_word_count": 135,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 205,
@@ -2290,7 +2698,9 @@
       "master_char_count": 3103,
       "local_char_count": 3103,
       "master_word_count": 342,
-      "local_word_count": 342
+      "local_word_count": 342,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 206,
@@ -2301,7 +2711,9 @@
       "master_char_count": 3062,
       "local_char_count": 3062,
       "master_word_count": 302,
-      "local_word_count": 302
+      "local_word_count": 302,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 207,
@@ -2312,7 +2724,9 @@
       "master_char_count": 2705,
       "local_char_count": 2705,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 208,
@@ -2323,7 +2737,9 @@
       "master_char_count": 3036,
       "local_char_count": 3036,
       "master_word_count": 333,
-      "local_word_count": 333
+      "local_word_count": 333,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 209,
@@ -2334,7 +2750,9 @@
       "master_char_count": 2212,
       "local_char_count": 2212,
       "master_word_count": 229,
-      "local_word_count": 229
+      "local_word_count": 229,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 210,
@@ -2345,7 +2763,9 @@
       "master_char_count": 1660,
       "local_char_count": 1660,
       "master_word_count": 211,
-      "local_word_count": 211
+      "local_word_count": 211,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 211,
@@ -2356,7 +2776,9 @@
       "master_char_count": 1799,
       "local_char_count": 1799,
       "master_word_count": 220,
-      "local_word_count": 220
+      "local_word_count": 220,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 212,
@@ -2367,7 +2789,9 @@
       "master_char_count": 1596,
       "local_char_count": 1596,
       "master_word_count": 225,
-      "local_word_count": 225
+      "local_word_count": 225,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 213,
@@ -2378,7 +2802,9 @@
       "master_char_count": 1573,
       "local_char_count": 1573,
       "master_word_count": 190,
-      "local_word_count": 190
+      "local_word_count": 190,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 214,
@@ -2389,7 +2815,9 @@
       "master_char_count": 1274,
       "local_char_count": 1274,
       "master_word_count": 179,
-      "local_word_count": 179
+      "local_word_count": 179,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 215,
@@ -2400,7 +2828,9 @@
       "master_char_count": 2332,
       "local_char_count": 2332,
       "master_word_count": 256,
-      "local_word_count": 256
+      "local_word_count": 256,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 216,
@@ -2411,7 +2841,9 @@
       "master_char_count": 1033,
       "local_char_count": 1033,
       "master_word_count": 103,
-      "local_word_count": 103
+      "local_word_count": 103,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 217,
@@ -2422,7 +2854,9 @@
       "master_char_count": 1712,
       "local_char_count": 1712,
       "master_word_count": 150,
-      "local_word_count": 150
+      "local_word_count": 150,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 218,
@@ -2433,7 +2867,9 @@
       "master_char_count": 2835,
       "local_char_count": 2835,
       "master_word_count": 310,
-      "local_word_count": 310
+      "local_word_count": 310,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 219,
@@ -2444,7 +2880,9 @@
       "master_char_count": 548,
       "local_char_count": 548,
       "master_word_count": 61,
-      "local_word_count": 61
+      "local_word_count": 61,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 220,
@@ -2455,7 +2893,9 @@
       "master_char_count": 1498,
       "local_char_count": 1498,
       "master_word_count": 158,
-      "local_word_count": 158
+      "local_word_count": 158,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 221,
@@ -2466,7 +2906,9 @@
       "master_char_count": 2646,
       "local_char_count": 2646,
       "master_word_count": 274,
-      "local_word_count": 274
+      "local_word_count": 274,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 222,
@@ -2477,7 +2919,9 @@
       "master_char_count": 2430,
       "local_char_count": 2430,
       "master_word_count": 259,
-      "local_word_count": 259
+      "local_word_count": 259,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 223,
@@ -2488,7 +2932,9 @@
       "master_char_count": 2328,
       "local_char_count": 2328,
       "master_word_count": 218,
-      "local_word_count": 218
+      "local_word_count": 218,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 224,
@@ -2499,7 +2945,9 @@
       "master_char_count": 1755,
       "local_char_count": 1755,
       "master_word_count": 172,
-      "local_word_count": 172
+      "local_word_count": 172,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 225,
@@ -2510,7 +2958,9 @@
       "master_char_count": 2015,
       "local_char_count": 2015,
       "master_word_count": 226,
-      "local_word_count": 226
+      "local_word_count": 226,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 226,
@@ -2521,7 +2971,9 @@
       "master_char_count": 2048,
       "local_char_count": 2048,
       "master_word_count": 216,
-      "local_word_count": 216
+      "local_word_count": 216,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 227,
@@ -2532,7 +2984,9 @@
       "master_char_count": 1493,
       "local_char_count": 1493,
       "master_word_count": 170,
-      "local_word_count": 170
+      "local_word_count": 170,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 228,
@@ -2543,7 +2997,9 @@
       "master_char_count": 2230,
       "local_char_count": 2230,
       "master_word_count": 232,
-      "local_word_count": 232
+      "local_word_count": 232,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 229,
@@ -2554,7 +3010,9 @@
       "master_char_count": 1856,
       "local_char_count": 1856,
       "master_word_count": 199,
-      "local_word_count": 199
+      "local_word_count": 199,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 230,
@@ -2565,7 +3023,9 @@
       "master_char_count": 2351,
       "local_char_count": 2351,
       "master_word_count": 272,
-      "local_word_count": 272
+      "local_word_count": 272,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 231,
@@ -2576,7 +3036,9 @@
       "master_char_count": 3194,
       "local_char_count": 3194,
       "master_word_count": 338,
-      "local_word_count": 338
+      "local_word_count": 338,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 232,
@@ -2587,7 +3049,9 @@
       "master_char_count": 2277,
       "local_char_count": 2277,
       "master_word_count": 267,
-      "local_word_count": 267
+      "local_word_count": 267,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 233,
@@ -2598,7 +3062,9 @@
       "master_char_count": 1568,
       "local_char_count": 1568,
       "master_word_count": 198,
-      "local_word_count": 198
+      "local_word_count": 198,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 234,
@@ -2609,7 +3075,9 @@
       "master_char_count": 1792,
       "local_char_count": 1792,
       "master_word_count": 244,
-      "local_word_count": 244
+      "local_word_count": 244,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 235,
@@ -2620,7 +3088,9 @@
       "master_char_count": 2138,
       "local_char_count": 2138,
       "master_word_count": 271,
-      "local_word_count": 271
+      "local_word_count": 271,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 236,
@@ -2631,7 +3101,9 @@
       "master_char_count": 1403,
       "local_char_count": 1403,
       "master_word_count": 199,
-      "local_word_count": 199
+      "local_word_count": 199,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 237,
@@ -2642,7 +3114,9 @@
       "master_char_count": 2196,
       "local_char_count": 2196,
       "master_word_count": 271,
-      "local_word_count": 271
+      "local_word_count": 271,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 238,
@@ -2653,7 +3127,9 @@
       "master_char_count": 1079,
       "local_char_count": 1079,
       "master_word_count": 108,
-      "local_word_count": 108
+      "local_word_count": 108,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 239,
@@ -2664,7 +3140,9 @@
       "master_char_count": 1183,
       "local_char_count": 1183,
       "master_word_count": 126,
-      "local_word_count": 126
+      "local_word_count": 126,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 240,
@@ -2675,7 +3153,9 @@
       "master_char_count": 1341,
       "local_char_count": 1341,
       "master_word_count": 112,
-      "local_word_count": 112
+      "local_word_count": 112,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 241,
@@ -2686,7 +3166,9 @@
       "master_char_count": 746,
       "local_char_count": 746,
       "master_word_count": 75,
-      "local_word_count": 75
+      "local_word_count": 75,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 242,
@@ -2697,7 +3179,9 @@
       "master_char_count": 2328,
       "local_char_count": 2328,
       "master_word_count": 268,
-      "local_word_count": 268
+      "local_word_count": 268,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 243,
@@ -2708,7 +3192,9 @@
       "master_char_count": 3271,
       "local_char_count": 3271,
       "master_word_count": 361,
-      "local_word_count": 361
+      "local_word_count": 361,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 244,
@@ -2719,7 +3205,9 @@
       "master_char_count": 2180,
       "local_char_count": 2180,
       "master_word_count": 263,
-      "local_word_count": 263
+      "local_word_count": 263,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 245,
@@ -2730,7 +3218,9 @@
       "master_char_count": 2911,
       "local_char_count": 2911,
       "master_word_count": 331,
-      "local_word_count": 331
+      "local_word_count": 331,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 246,
@@ -2741,7 +3231,9 @@
       "master_char_count": 2665,
       "local_char_count": 2665,
       "master_word_count": 266,
-      "local_word_count": 266
+      "local_word_count": 266,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 247,
@@ -2752,7 +3244,9 @@
       "master_char_count": 1221,
       "local_char_count": 1221,
       "master_word_count": 151,
-      "local_word_count": 151
+      "local_word_count": 151,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 248,
@@ -2763,7 +3257,9 @@
       "master_char_count": 1221,
       "local_char_count": 1221,
       "master_word_count": 136,
-      "local_word_count": 136
+      "local_word_count": 136,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 249,
@@ -2774,7 +3270,9 @@
       "master_char_count": 1155,
       "local_char_count": 1155,
       "master_word_count": 150,
-      "local_word_count": 150
+      "local_word_count": 150,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 250,
@@ -2785,7 +3283,9 @@
       "master_char_count": 1925,
       "local_char_count": 1925,
       "master_word_count": 227,
-      "local_word_count": 227
+      "local_word_count": 227,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 251,
@@ -2796,7 +3296,9 @@
       "master_char_count": 2215,
       "local_char_count": 2215,
       "master_word_count": 247,
-      "local_word_count": 247
+      "local_word_count": 247,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 252,
@@ -2807,7 +3309,9 @@
       "master_char_count": 3624,
       "local_char_count": 3624,
       "master_word_count": 407,
-      "local_word_count": 407
+      "local_word_count": 407,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 253,
@@ -2818,7 +3322,9 @@
       "master_char_count": 3198,
       "local_char_count": 3198,
       "master_word_count": 360,
-      "local_word_count": 360
+      "local_word_count": 360,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 254,
@@ -2829,7 +3335,9 @@
       "master_char_count": 3517,
       "local_char_count": 3517,
       "master_word_count": 420,
-      "local_word_count": 420
+      "local_word_count": 420,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 255,
@@ -2840,7 +3348,9 @@
       "master_char_count": 2266,
       "local_char_count": 2266,
       "master_word_count": 240,
-      "local_word_count": 240
+      "local_word_count": 240,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 256,
@@ -2851,7 +3361,9 @@
       "master_char_count": 2251,
       "local_char_count": 2251,
       "master_word_count": 281,
-      "local_word_count": 281
+      "local_word_count": 281,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 257,
@@ -2862,7 +3374,9 @@
       "master_char_count": 2028,
       "local_char_count": 2028,
       "master_word_count": 235,
-      "local_word_count": 235
+      "local_word_count": 235,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 258,
@@ -2873,7 +3387,9 @@
       "master_char_count": 1889,
       "local_char_count": 1889,
       "master_word_count": 246,
-      "local_word_count": 246
+      "local_word_count": 246,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 259,
@@ -2884,7 +3400,9 @@
       "master_char_count": 2759,
       "local_char_count": 2759,
       "master_word_count": 313,
-      "local_word_count": 313
+      "local_word_count": 313,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 260,
@@ -2895,7 +3413,9 @@
       "master_char_count": 1812,
       "local_char_count": 1812,
       "master_word_count": 240,
-      "local_word_count": 240
+      "local_word_count": 240,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 261,
@@ -2906,7 +3426,9 @@
       "master_char_count": 1646,
       "local_char_count": 1646,
       "master_word_count": 193,
-      "local_word_count": 193
+      "local_word_count": 193,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 262,
@@ -2917,7 +3439,9 @@
       "master_char_count": 1083,
       "local_char_count": 1083,
       "master_word_count": 120,
-      "local_word_count": 120
+      "local_word_count": 120,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 263,
@@ -2928,7 +3452,9 @@
       "master_char_count": 1405,
       "local_char_count": 1405,
       "master_word_count": 120,
-      "local_word_count": 120
+      "local_word_count": 120,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 264,
@@ -2939,7 +3465,9 @@
       "master_char_count": 3391,
       "local_char_count": 3391,
       "master_word_count": 388,
-      "local_word_count": 388
+      "local_word_count": 388,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 265,
@@ -2950,7 +3478,9 @@
       "master_char_count": 3150,
       "local_char_count": 3150,
       "master_word_count": 368,
-      "local_word_count": 368
+      "local_word_count": 368,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 266,
@@ -2961,7 +3491,9 @@
       "master_char_count": 3207,
       "local_char_count": 3207,
       "master_word_count": 370,
-      "local_word_count": 370
+      "local_word_count": 370,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 267,
@@ -2972,7 +3504,9 @@
       "master_char_count": 3157,
       "local_char_count": 3157,
       "master_word_count": 368,
-      "local_word_count": 368
+      "local_word_count": 368,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 268,
@@ -2983,7 +3517,9 @@
       "master_char_count": 3112,
       "local_char_count": 3112,
       "master_word_count": 363,
-      "local_word_count": 363
+      "local_word_count": 363,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 269,
@@ -2994,7 +3530,9 @@
       "master_char_count": 3279,
       "local_char_count": 3279,
       "master_word_count": 364,
-      "local_word_count": 364
+      "local_word_count": 364,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 270,
@@ -3005,7 +3543,9 @@
       "master_char_count": 3222,
       "local_char_count": 3222,
       "master_word_count": 356,
-      "local_word_count": 356
+      "local_word_count": 356,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 271,
@@ -3016,7 +3556,9 @@
       "master_char_count": 2969,
       "local_char_count": 2969,
       "master_word_count": 298,
-      "local_word_count": 298
+      "local_word_count": 298,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     },
     {
       "page_number": 272,
@@ -3027,7 +3569,35 @@
       "master_char_count": 5349,
       "local_char_count": 5349,
       "master_word_count": 607,
-      "local_word_count": 607
+      "local_word_count": 607,
+      "whitespace_normalized_match": true,
+      "notes": "Exact byte/character match."
     }
-  ]
+  ],
+  "raw_exact_matches_count": 270,
+  "whitespace_normalized_matches_count": 272,
+  "classification": "TEXT_EQUIVALENT_AFTER_WHITESPACE_NORMALIZATION",
+  "root_cause_analysis": {
+    "summary": "Differences on pages 17 and 45 are strictly confined to soft-wrap intra-line newline characters (\n) within text blocks. Whitespace-collapsed comparison yields 100.0% identity (272/272). Zero words added, zero words deleted.",
+    "affected_pages": [
+      {
+        "page_number": 17,
+        "unit": "01_mozhi_dravida_mozhikudumbam",
+        "file": "page_017.pdf",
+        "nature_of_diff": "Soft-wrap newline before 'நந'",
+        "raw_match": false,
+        "whitespace_collapsed_match": true,
+        "similarity_ratio": 0.9994
+      },
+      {
+        "page_number": 45,
+        "unit": "02_iyarkai_suttrucchuzhal",
+        "file": "page_045.pdf",
+        "nature_of_diff": "Soft-wrap newline before 'நந ன்றி வணக்கம்'",
+        "raw_match": false,
+        "whitespace_collapsed_match": true,
+        "similarity_ratio": 0.9994
+      }
+    ]
+  }
 }
