@@ -1,0 +1,16 @@
+{
+  "book_id": "class_09_maths_tm",
+  "class": "9",
+  "subject": "Mathematics (Tamil Medium)",
+  "official_filename": "9th_Maths_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Maths_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length_header": 26424270,
+  "actual_bytes_downloaded": 26424270,
+  "etag": "c8fc7b3d122173767d25941f2b7cc911",
+  "sha256": "58710b97e23f3556f833b1280cba8474e15ff9a254e9f3d1af0cc2d06c919397",
+  "md5": "c8fc7b3d122173767d25941f2b7cc911",
+  "page_count": 344,
+  "timestamp_utc": "2026-11-04T23:41:02.408121+00:00",
+  "zero_local_persistence_verified": true
+}
