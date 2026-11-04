@@ -1,0 +1,17 @@
+{
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "Tamil",
+  "official_filename": "9th_Tamil_Text.pdf",
+  "official_source_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf",
+  "final_redirect_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length_header_bytes": 87225945,
+  "actual_downloaded_bytes": 87225945,
+  "etag": "f0a57592f9d8e83c5832bf81c3ec58af",
+  "last_modified_header": "Thu, 22 Oct 2026 07:29:11 GMT",
+  "sha256_hash": "30aba06b8a0b6948f5ad996148edcf4a5fdd79cba622acde15d095431c9cf6d2",
+  "page_count": 272,
+  "download_timestamp_utc": "2026-11-04 23:15:33 UTC"
+}
