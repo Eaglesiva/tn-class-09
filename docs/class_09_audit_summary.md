@@ -18,7 +18,7 @@
 | 3 | **Out-of-Scope Records** | **20** | • 9 Minority language medium books (Telugu, Malayalam, Urdu for Maths, Science, Social)<br>• 8 Minority language readers (Telugu, Kannada, Malayalam, Urdu, Hindi, Sanskrit, Arabic, French)<br>• 1 Value education supplementary module<br>• 2 Physical education teacher's resource books |
 | 4 | **Official URLs Successfully Verified** | **8** | All 8 core State Board annual textbooks verified on CloudFront CDN. |
 | 5 | **Official URLs Returning HTTP 403** | **0** | Zero. All 8 Class 9 annual textbooks are active and live on CDN. |
-| 6 | **Books Matching Existing GitHub `main` Baseline** | **8** | **All 8 books match 100% letter-for-letter and page-for-page!** |
+| 6 | **Books Matching Existing GitHub `main` Baseline** | **8** | **Page count (2,504 pages across 8 books) and Page-2 reprint imprint (2024 Reprint) match 100% verbatim. Full page-by-page content diff across all 2,504 pages is pending.** |
 | 7 | **Books Requiring Re-download / Split** | **0** | Zero. GitHub `main` already hosts the genuine 2024 reprint edition. |
 | 8 | **Total Verified Pages on GitHub `main`** | **2,504** | All 2,504 single-page PDFs exist continuously and sequentially on GitHub `main`. |
 | 9 | **Final Decision** | **SAME_EDITION** | **KEEP_EXISTING — No overwrite or replacement needed.** |
@@ -29,14 +29,14 @@
 
 | பாடம் (Subject) | பயிற்று மொழி | GitHub `main` பக்கங்கள் | SCERT அதிகாரப்பூர்வ பக்கங்கள் | Page 2 பதிப்பு விவரம் (Imprint) | பதிப்பு ஒப்பீடு | இறுதி முடிவு |
 |---|:---:|:---:|:---:|---|:---:|:---:|
-| **தமிழ் (Tamil)** | தமிழ் | **272** | **272** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019-2023; **மறுபதிப்பு: 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **ஆங்கிலம் (English)** | English | **224** | **224** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **கணிதம் (Maths TM)** | தமிழ் | **344** | **344** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **Mathematics (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **அறிவியல் (Science TM)** | தமிழ் | **336** | **336** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **Science (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **சமூக அறிவியல் (Social TM)** | தமிழ் | **344** | **344** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
-| **Social Science (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **100% IDENTICAL** | **SAME_EDITION (KEEP)** |
+| **தமிழ் (Tamil)** | தமிழ் | **272** | **272** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019-2023; **மறுபதிப்பு: 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **ஆங்கிலம் (English)** | English | **224** | **224** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **கணிதம் (Maths TM)** | தமிழ் | **344** | **344** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **Mathematics (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **அறிவியல் (Science TM)** | தமிழ் | **336** | **336** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **Science (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **சமூக அறிவியல் (Social TM)** | தமிழ் | **344** | **344** | முதல் பதிப்பு: 2018; திருத்திய பதிப்பு: 2019, 2020, 2022, 2023; **மறுபதிப்பு: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
+| **Social Science (EM)** | English | **328** | **328** | First Edition: 2018; Revised: 2019, 2020, 2022, 2023; **Reprint: 2021, 2024** | **PAGE-2 IMPRINT & PAGE COUNT MATCHED** | **IMPRINT_AND_PAGE_COUNT_MATCHED (FULL_PAGE_DIFF_PENDING)** |
 
 ---
 
