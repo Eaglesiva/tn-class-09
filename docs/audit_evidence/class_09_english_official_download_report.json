@@ -1,0 +1,23 @@
+{
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "English",
+  "official_filename": "9th English_Text.pdf",
+  "official_source_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th%20English_Text.pdf",
+  "final_redirect_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th%20English_Text.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length_header_bytes": 81932747,
+  "actual_downloaded_bytes": 81932747,
+  "etag": "b6635d16fbf50e9f95bc344bb940458b",
+  "last_modified_header": "Thu, 22 Oct 2026 07:28:54 GMT",
+  "sha256_hash": "f81941a3a0b81a4d63ad7c11a86c0398b6567ddf333ef6a29b3848b9cb89d30a",
+  "page_count": 224,
+  "download_timestamp_utc": "2026-11-04 23:11:38 UTC",
+  "byte_discrepancy_resolution": {
+    "legacy_index_placeholder_bytes": 23814144,
+    "preliminary_rough_estimate_bytes": 48450708,
+    "authoritative_verified_bytes": 81932747,
+    "explanation": "Earlier CSV records used preliminary index placeholders. Live HTTP HEAD and GET verification against CloudFront confirmed exact size is 81,932,747 bytes (81.9 MB) with ETag b6635d16fbf50e9f95bc344bb940458b."
+  }
+}
