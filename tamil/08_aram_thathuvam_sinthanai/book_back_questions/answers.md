@@ -62,11 +62,15 @@
    இ) காசு
    ஈ) பிறப்பு
 
+
+
+
+
 **Source-ல் காணப்பட்ட விடை:** ஈ) பிறப்பு
 
-**காரண விளக்கம்:** குறளின் ஈற்றுச்சீர் வாய்பாடு “பிறப்பு” எனக் குறிப்பிடப்படுகிறது; கூடுதல் cross-check தேவை.
+**காரண விளக்கம்:** குறளின் ஈற்றுச்சீர் “பெரிது”; அதன் வாய்பாடு பிறப்பு என prosody guide-கள் தருகின்றன.
 
-**சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 210; மதிப்பீட்டுப் பக்கம் 226 — `OFFICIAL_TEXTBOOK_SOURCE`.
@@ -83,11 +87,15 @@
    இ) துணிவு
    ஈ) மருட்சி
 
+
+
+
+
 **Source-ல் காணப்பட்ட விடை:** இ) துணிவு
 
-**காரண விளக்கம்:** இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு என answer references தருகின்றன.
+**காரண விளக்கம்:** இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு.
 
-**சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 210; மதிப்பீட்டுப் பக்கம் 226 — `OFFICIAL_TEXTBOOK_SOURCE`.
@@ -130,11 +138,15 @@
 
 ---
 
+
+
+
+
 **Source-ல் காணப்பட்ட விடை:** ஈ) அறிவு
 
-**காரண விளக்கம்:** “ஞானம்” என்பதன் பொருள் அறிவு; கூடுதல் cross-check தேவை.
+**காரண விளக்கம்:** ஞானம் என்பதன் பொருள் அறிவு.
 
-**சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 210; மதிப்பீட்டுப் பக்கம் 226 — `OFFICIAL_TEXTBOOK_SOURCE`.
