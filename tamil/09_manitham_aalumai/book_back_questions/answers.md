@@ -44,6 +44,8 @@
 - S2 — [BrainKart — இயல் 9 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11678/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [VirkozKalvi — இயல் 9 வினா-விடை](https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u9_q1`
+
 ---
 
 ### MCQ2. தமிழ்ப் புலவரைப் போலவே உரோமச் சிந்தனையாளர் கொண்ட கொள்கை
