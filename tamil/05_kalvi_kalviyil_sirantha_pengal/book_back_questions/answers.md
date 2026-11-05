@@ -137,9 +137,6 @@
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
-
----
-
 ### MCQ5. பூவாது காய்க்கும், மலர்க்கை - அடிக்கோடிட்ட சொற்களுக்குரிய இலக்கணம் யாது?
 
    அ) பெயரெச்சம், உவமைத்தொகை
