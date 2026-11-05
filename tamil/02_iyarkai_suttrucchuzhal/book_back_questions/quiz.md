@@ -14,9 +14,9 @@
 
 **Source-ல் காணப்பட்ட விடை:** அ) கீழே
 
-**விளக்கம்:** “மிசை” என்பதற்கு எதிர்ச்சொல் “கீழே” என்று பொருள் அடிப்படையில் பொருந்துகிறது; cross-check தேவை.
+**விளக்கம்:** “மிசை” என்பதற்கு மேலே என்ற பொருள்; அதன் எதிர்ச்சொல் கீழே.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11616/](https://www.brainkart.in/article/Questions-and-Answers_11616/)
 
@@ -51,9 +51,11 @@
    ௩) அ, ஆ
    ௪) அ, ஆ, இ
 
-**நிலை:** `REVIEW_REQUIRED`
+**Source-ல் காணப்பட்ட விடை:** ௪) அ, ஆ, இ
 
-**குறிப்பு:** கூற்று–ஆசிரியர் பொருத்தத்திற்கான நேரடி விடை உறுதிப்படுத்தப்படவில்லை.
+**விளக்கம்:** மூன்று கூற்றுகளும் சரியானவை: திருவள்ளுவர், ஔவையார், இளங்கோவடிகள் ஆகியோருடன் கொடுக்கப்பட்ட தொடர்கள் பொருந்துகின்றன.
+
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11616/](https://www.brainkart.in/article/Questions-and-Answers_11616/)
 
