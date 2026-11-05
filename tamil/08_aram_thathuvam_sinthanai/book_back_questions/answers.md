@@ -491,6 +491,7 @@
 
 | Question ID | நிலை | குறிப்பு |
 |---|---|---|
-| Non-objective | `SOURCE_ONLY` | குறு / சிறு / நெடு / பயிற்சி / படைப்பாற்றல் வினாக்களுக்கு placeholders மற்றும் links மட்டும். |
+| Objective | `ANSWER_FOUND` | ஐந்து Objective வினாக்களுக்கும் ஆதாரத்துடன் விடைகள் சரிபார்க்கப்பட்டன. |
+| Non-objective | `SOURCE_ONLY` | குறு / சிறு / நெடு / பயிற்சி / படைப்பாற்றல் வினாக்களுக்கு Class 10 வடிவில் மூன்று placeholders மற்றும் source links மட்டும். |
 
 **முடிவு:** இது கேள்வி வாரியான answer-source map; பெரிய விடைகள் உருவாக்கப்படவில்லை.
