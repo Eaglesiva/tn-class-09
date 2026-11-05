@@ -1,26 +1,26 @@
 [
   {
     "id": "9_tam_u1_q1",
-    "question": "குழுவில் விடுபட்ட வரிசையைத் தேர்ந்தெடுக்க.",
+    "question": "குழுவில் விடுபட்ட வரிசையைத் தேர்ந்தெடுக்க.\n| குழு – 1 | குழு - 2 | குழு – 3 | குழு - 4 |\n   | :--- | :--- | :--- | :--- |\n   | நாவாய் | மரம் | துறை | தன்வினை |\n   | ……………. | ……………. | ……………. | ……………. |",
     "options": [
-      "வங்கம், மானு, தாழிசை, பிறவினை",
-      "தாழிசை, மானு, பிறவினை, வங்கம்",
-      "பிறவினை, தாழிசை, மானு, வங்கம்",
-      "மானு, பிறவினை, வங்கம், தாழிசை"
+      "1- வங்கம், 2- மானு, 3- தாழிசை, 4- பிறவினை",
+      "1- தாழிசை, 2- மானு, 3- பிறவினை, 4- வங்கம்",
+      "1- பிறவினை, 2- தாழிசை, 3- மானு, 4- வங்கம்",
+      "1- மானு, 2- பிறவினை, 3- வங்கம், 4- தாழிசை"
     ],
     "correctOptionIndex": 0,
-    "explanation": "விடைக்குறிப்பில் சரியான வரிசை வங்கம், மானு, தாழிசை, பிறவினை என வழங்கப்பட்டுள்ளது.",
+    "explanation": "விடை வரிசை நேரடி விடைக்குறிப்புடன் பொருந்துகிறது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/",
-    "sourceName": "BrainKart — இயல் 1 Questions and Answers",
+    "sourceName": "BrainKart — இயல் 1 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+      "https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
   },
   {
     "id": "9_tam_u1_q2",
-    "question": "தமிழ்விடு தூது எந்த இலக்கிய வகையைச் சேர்ந்தது?",
+    "question": "தமிழ்விடு தூது ……………. என்னும் இலக்கிய வகையைச் சேர்ந்தது.",
     "options": [
       "தொடர்நிலைச் செய்யுள்",
       "புதுக்கவிதை",
@@ -30,16 +30,16 @@
     "correctOptionIndex": 2,
     "explanation": "தமிழ்விடு தூது சிற்றிலக்கிய வகையைச் சேர்ந்தது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/",
-    "sourceName": "BrainKart — இயல் 1 Questions and Answers",
+    "sourceName": "BrainKart — இயல் 1 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+      "https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
   },
   {
     "id": "9_tam_u1_q3",
-    "question": "விடுபட்ட இடங்களுக்குப் பொருத்தமான விடை வரிசை எது?",
+    "question": "விடுபட்ட இடத்திற்குப் பொருத்தமான விடை வரிசையைக் குறிப்பிடுக.\n| வினாப் பகுதி | நிரப்ப வேண்டிய தொடர் |\n   | :--- | :--- |\n   | அ. | ……………. இனம் |\n   | ஆ. | வண்ணம் ……………. |\n   | இ. | ……………. குணம் |\n   | ஈ. | வனப்பு ……………. |",
     "options": [
       "மூன்று, நூறு, பத்து, எட்டு",
       "எட்டு, நூறு, பத்து, மூன்று",
@@ -47,37 +47,37 @@
       "நூறு, பத்து, எட்டு, மூன்று"
     ],
     "correctOptionIndex": 0,
-    "explanation": "விடைக்குறிப்பில் மூன்று, நூறு, பத்து, எட்டு என வழங்கப்பட்டுள்ளது.",
+    "explanation": "விடுபட்ட நான்கு தொடர்களுக்கான வரிசை விடைக்குறிப்பில் உள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/",
-    "sourceName": "BrainKart — இயல் 1 Questions and Answers",
+    "sourceName": "BrainKart — இயல் 1 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+      "https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
   },
   {
     "id": "9_tam_u1_q4",
-    "question": "“காலம் பிறக்கும் முன் பிறந்தது தமிழே! காலமும் நிலையாய் இருப்பதும் தமிழே!” என்ற அடிகளில் பயின்று வரும் நயங்கள் எவை?",
+    "question": "”காலம் பிறக்கும்முன் பிறந்தது தமிழே! - எந்தக் காலமும் நிலையாய் இருப்பதும் தமிழே!” - இவ்வடிகளில் பயின்று வரும் நயங்கள்:",
     "options": [
       "முரண், எதுகை, இரட்டைத் தொடை",
       "இயைபு, அளபெடை, செந்தொடை",
-      "எதுகை, மோனை, இயைபு",
+      "மோனை, எதுகை, இயைபு",
       "மோனை, முரண், அந்தாதி"
     ],
     "correctOptionIndex": 2,
-    "explanation": "விடைக்குறிப்பில் எதுகை, மோனை, இயைபு என வழங்கப்பட்டுள்ளது.",
+    "explanation": "மோனை, எதுகை, இயைபு என்ற மூன்று நயங்களும் உள்ளன; option சொல் வரிசை source-இல் மாறுபட்டுள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/",
-    "sourceName": "BrainKart — இயல் 1 Questions and Answers",
+    "sourceName": "BrainKart — இயல் 1 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+      "https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/"
     ],
-    "verificationStatus": "ANSWER_FOUND",
+    "verificationStatus": "ANSWER_FOUND_OPTION_ORDER_VARIANT",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
   },
   {
     "id": "9_tam_u1_q5",
-    "question": "“அழியா வனப்பு, ஒழியா வனப்பு, சிந்தா மணி” ஆகியவற்றில் அடிக்கோடிட்ட சொற்களுக்கான இலக்கணக் குறிப்பு எது?",
+    "question": "அழியா வனப்பு, ஒழியா வனப்பு, சிந்தா மணி - அடிக்கோடிட்ட சொற்களுக்கான இலக்கணக்குறிப்பு:",
     "options": [
       "வேற்றுமைத்தொகை",
       "ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்",
@@ -85,11 +85,11 @@
       "வினைத்தொகை"
     ],
     "correctOptionIndex": 1,
-    "explanation": "விடைக்குறிப்பில் ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம் என வழங்கப்பட்டுள்ளது.",
+    "explanation": "அடிக்கோடிட்ட சொற்களுக்கான இலக்கணக் குறிப்பு ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/",
-    "sourceName": "BrainKart — இயல் 1 Questions and Answers",
+    "sourceName": "BrainKart — இயல் 1 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+      "https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
