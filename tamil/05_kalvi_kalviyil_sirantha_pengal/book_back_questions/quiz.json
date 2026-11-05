@@ -36,5 +36,62 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
+  },
+  {
+    "id": "9_tam_u5_q2",
+    "question": "மாறுபட்டுள்ள குழுவினைக் கண்டறிக.",
+    "options": [
+      "கலைக்கூடம், திரையரங்கம், ஆடுகளம், அருங்காட்சியகம்",
+      "கடி, உறு, கூர், கழி",
+      "வினவினான், செப்பினான், உரைத்தான், பகன்றான்",
+      "இன், கூட, கிறு, அம்பு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "முதல் மூன்று குழுக்கள் முறையே இடப்பெயர்கள், உரிச்சொற்கள், பேசுதலைக் குறிக்கும் வினைச்சொற்கள்; நான்காவது குழு மாறுபட்டது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/",
+    "sourceName": "BrainKart — இயல் 5 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-5-4"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
+  },
+  {
+    "id": "9_tam_u5_q4",
+    "question": "சரியான கூற்றினைத் தெரிவு செய்க:\nஅ) ‘ஆ’ என்பது எதிர்மறை இடைநிலை.\nஆ) வீட்டிற்கோர் புத்தகசாலை என்பது அண்ணாவின் வானொலி உரை.\nஇ) வில்லுப்பாட்டு ஓர் இலக்கிய வடிவம்.",
+    "options": [
+      "ஆ, இ சரி; அ தவறு",
+      "அ, இ சரி; ஆ தவறு",
+      "மூன்றும் சரி",
+      "மூன்றும் தவறு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "வானொலி உரை எனக் குறிப்பிடும் இந்தக் கேள்வி வடிவில் மூன்று கூற்றுகளும் சரி எனக் கொடுக்கப்பட்டுள்ள guide source உறுதிப்படுத்துகிறது.",
+    "sourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-5-4",
+    "sourceName": "StudyToday — இயல் 5 guide",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-5-4"
+  },
+  {
+    "id": "9_tam_u5_q5",
+    "question": "பூவாது காய்க்கும், மலர்க்கை - அடிக்கோடிட்ட சொற்களுக்குரிய இலக்கணம் யாது?",
+    "options": [
+      "பெயரெச்சம், உவமைத்தொகை",
+      "எதிர்மறைப் பெயரெச்சம், உருவகம்",
+      "வினையெச்சம், உவமை",
+      "எதிர்மறை வினையெச்சம், உவமைத்தொகை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "“பூவாது” எதிர்மறை வினையெச்சம்; “மலர்க்கை” உவமைத்தொகை.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/",
+    "sourceName": "BrainKart — இயல் 5 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
   }
 ]
