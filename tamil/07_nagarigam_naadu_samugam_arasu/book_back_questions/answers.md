@@ -6,6 +6,8 @@
 
 **அடிப்படை:** [`questions.md`](./questions.md) — அசல் கேள்வி உரை, விருப்பங்கள், வரிசை மற்றும் பிரிவுகள் பாதுகாக்கப்பட்டுள்ளன.
 
+**அதிகாரப்பூர்வ பாடநூல் ஆதாரம்:** [SCERT 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — இந்த இயலின் பாடப்பகுதி அச்சுப் பக்கம் 182; மதிப்பீட்டு வினாக்கள் அச்சுப் பக்கம் 202. 2026–27 edition audit-ல் 272 பக்கங்களும் GitHub split PDF-களும் text-equivalent என உறுதிப்படுத்தப்பட்டுள்ளன.
+
 **பணி வரம்பு:** எழுத்து விடை / பயிற்சி வினாக்களுக்கு விடை எழுதப்படவில்லை. அவற்றுக்கு `விடைக்குறிப்பு`, `சாதாரண விடை`, `விரிவான விடை` ஆகிய மூன்று காலி இடங்களும் நேரடி Source links-மும் மட்டும்.
 
 ---
@@ -14,6 +16,7 @@
 
 | ID | Source | Direct page | நிலை |
 |---|---|---|---|
+| SCERT | 9th Tamil Text — 2024 Reprint | [Official SCERT PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) | `OFFICIAL_TEXTBOOK_SOURCE` — printed book page 182; assessment page 202 |
 | S1 | BrainKart — இயல் 7 Book Back Q&A | [https://www.brainkart.in/article/Questions-and-Answers_11659/](https://www.brainkart.in/article/Questions-and-Answers_11659/) | `SOURCE_REFERENCE` — third-party educational answer page |
 | S2 | BrainKart — இயல் 7 மொழிப் பயிற்சி | [https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) | `SOURCE_REFERENCE` — third-party educational answer page |
 | S3 | Kalvi Tips — இயல் 7 வினா-விடை | [https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) | `SOURCE_REFERENCE` — third-party educational answer page |
@@ -40,6 +43,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -62,6 +66,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -82,6 +87,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -102,6 +108,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -120,6 +127,7 @@
 **குறிப்பு:** பாடல் அடியின் பொருளுக்கும் நான்கு விருப்பங்களுக்கும் இடையிலான துல்லியமான ஆதாரம் கிடைக்கவில்லை.
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -145,6 +153,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -161,7 +170,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -176,7 +186,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -191,7 +202,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -206,7 +218,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -221,7 +234,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -236,7 +250,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -254,7 +269,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -271,7 +287,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -286,7 +303,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -301,7 +319,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -316,7 +335,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -331,7 +351,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -346,7 +367,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -364,7 +386,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -381,7 +404,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -396,7 +420,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -414,7 +439,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -438,7 +464,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -455,7 +482,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -474,7 +502,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -495,7 +524,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -516,7 +546,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -532,6 +563,7 @@
 - இராணுவப் பயிற்சி - Military Training
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 182; மதிப்பீட்டுப் பக்கம் 202 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 7 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11659/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
