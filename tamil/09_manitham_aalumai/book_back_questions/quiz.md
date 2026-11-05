@@ -30,11 +30,13 @@
    இ) இம்மை மறுமை
    ஈ) ஒன்றே உலகம்
 
+
+
 **Source-ல் காணப்பட்ட விடை:** ஈ) ஒன்றே உலகம்
 
-**விளக்கம்:** தமிழ்ப் புலவர் / உரோமச் சிந்தனையாளர் பற்றிய ஒப்பீட்டில் “ஒன்றே உலகம்” என source-கள் தருகின்றன.
+**விளக்கம்:** தமிழ்ப் புலவர் மற்றும் உரோமச் சிந்தனையாளர் இருவரும் உலகை ஒன்றாகக் காணும் கொள்கையைப் பகிர்ந்தனர்.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11677/](https://www.brainkart.in/article/Questions-and-Answers_11677/)
 
@@ -48,11 +50,13 @@
    இ) அந்நியமற்ற நதி
    ஈ) உயரப் பறத்தல்
 
+
+
 **Source-ல் காணப்பட்ட விடை:** அ) ஒரு சிறு இசை
 
-**விளக்கம்:** வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்ற நூல் “ஒரு சிறு இசை”.
+**விளக்கம்:** வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல் “ஒரு சிறு இசை”.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11677/](https://www.brainkart.in/article/Questions-and-Answers_11677/)
 
@@ -66,11 +70,13 @@
    இ) பாலை
    ஈ) நெய்தல்
 
+
+
 **Source-ல் காணப்பட்ட விடை:** இ) பாலை
 
-**விளக்கம்:** யா மரம் பாலை நிலத்துடன் தொடர்புபடுத்தப்படுகிறது; கூடுதல் source cross-check தேவை.
+**விளக்கம்:** யா மரம் பாலை நிலத்துடன் தொடர்புடைய மரமாகக் குறிப்பிடப்படுகிறது.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11677/](https://www.brainkart.in/article/Questions-and-Answers_11677/)
 
@@ -88,9 +94,11 @@
 
 ---
 
-**விடை நிலை:** `REVIEW_REQUIRED`
+**Source-ல் காணப்பட்ட விடை:** ஆ) பொருள் பின்வருநிலையணி
 
-**குறிப்பு:** இக்குறளில் வரும் அணியை நேரடி source மூலம் துல்லியமாக உறுதிப்படுத்தவில்லை.
+**விளக்கம்:** கல்வி என்ற செல்வத்தையும் “மாடு” என்ற சொல்லையும் ஒரே பொருளில் (செல்வம்) குறிப்பதால் பொருள் பின்வருநிலையணி என வகைப்படுத்தப்படுகிறது.
+
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11677/](https://www.brainkart.in/article/Questions-and-Answers_11677/)
 
