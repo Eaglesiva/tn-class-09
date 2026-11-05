@@ -507,6 +507,8 @@
 
 **விடை:** தவறு
 
+- S4 — [StudentsGuide360 — இயல் 6.6 திருக்குறள்](https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/) — கட்ட வினாக்களின் சொல் விடைகள் (`SOURCE_REFERENCE`).
+
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 152; மதிப்பீட்டுப் பக்கம் 172 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 6 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11650/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -547,6 +549,8 @@
 **Source-ல் காணப்பட்ட விடை:** ஏகதேச உருவக அணி
 
 **காரண விளக்கம்:** ஐந்து நற்குணங்களைத் தூண்களாக உருவகித்து, சால்பு என்னும் குணத்தை உருவகிக்காமல் விடுவதால் ஏகதேச உருவக அணி ஆகும்.
+
+- S4 — [Thamizhpozhil — இயல் 6 திருக்குறள்](https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html) — ஏகதேச உருவக அணி விளக்கம் (`SOURCE_REFERENCE`).
 
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 152; மதிப்பீட்டுப் பக்கம் 172 — `OFFICIAL_TEXTBOOK_SOURCE`.
