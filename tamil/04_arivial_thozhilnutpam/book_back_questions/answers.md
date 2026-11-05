@@ -48,6 +48,8 @@
 - S2 — [OMTEX — ஓ, என் சமகாலத் தோழர்களே](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [OMTEX — விண்ணையும் சாடுவோம்](https://www.omtexclasses.com/2025/08/9th-std-tamil-iyal-4-vinnaiyum-saaduvom-book-back-questions-answers-samacheer-kalvi.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u4_q1`
+
 ---
 
 ### MCQ2. தமிழ்நாடு அரசு கிராமப்புற மாணவர்களுக்கு நடத்தும் திறனாய்வுத் தேர்வு எது?
@@ -67,6 +69,8 @@
 - S1 — [BrainKart — இயல் 4 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — ஓ, என் சமகாலத் தோழர்களே](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [OMTEX — விண்ணையும் சாடுவோம்](https://www.omtexclasses.com/2025/08/9th-std-tamil-iyal-4-vinnaiyum-saaduvom-book-back-questions-answers-samacheer-kalvi.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
+
+- **Quiz ID:** `9_tam_u4_q2`
 
 ---
 
@@ -89,6 +93,8 @@
 - S1 — [BrainKart — இயல் 4 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — ஓ, என் சமகாலத் தோழர்களே](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [OMTEX — விண்ணையும் சாடுவோம்](https://www.omtexclasses.com/2025/08/9th-std-tamil-iyal-4-vinnaiyum-saaduvom-book-back-questions-answers-samacheer-kalvi.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
+
+- **Quiz ID:** `9_tam_u4_q3`
 
 ---
 
@@ -125,6 +131,8 @@
    ௨) நேவிக், வானூர்தி
    ௩) வானூர்தி, சித்தாரா
    ௪) சித்தாரா, நேவிக்
+
+- **Quiz ID:** `9_tam_u4_q5`
 
 ---
 
