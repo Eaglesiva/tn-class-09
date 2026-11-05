@@ -1,0 +1,116 @@
+[
+  {
+    "id": "9_tam_u3_tk_q1",
+    "question": "படத்திற்கேற்ற குறளைத் தேர்வு செய்க.",
+    "options": [
+      "நாணாமை நாடாமை நாரின்மை யாதொன்றும் பேணாமை பேதை தொழில்.",
+      "விழைதகையான் வேண்டி இருப்பர் கெழுதகையாற் கேளாது நட்டார் செயின்.",
+      "செல்வத்துள் செல்வம் செவிச்செல்வம் அச்செல்வம் செல்வத்துள் எல்லாந் தலை.",
+      "மேலுள்ளவற்றுள் எதுவுமில்லை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "விடைக்குறிப்பு மற்றும் பொருத்தமான படத்தைப் பார்த்து இதற்கான சரியான குறளை இறுதியாகத் தேர்வு செய்ய வேண்டும்.",
+    "sourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "REVIEW_REQUIRED",
+    "explanationSourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+  },
+  {
+    "id": "9_tam_u3_tk_q2",
+    "question": "பாரதியின் “சின்னப் பயல்” பாடலின் பொருளுக்குப் பொருத்தமான திருக்குறள் எது?",
+    "options": [
+      "செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள் அவியினும் வாழினும் என்.",
+      "மிகுதியான் மிக்கவை செய்தாரைத் தாம்தம் தகுதியான் வென்று விடல்.",
+      "குணம்நாடிக் குற்றமும் நாடி அவற்றுள் மிகைநாடி மிக்க கொளல்.",
+      "அறத்துப்பால் குறள்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இளையவன் என இகழ்ந்தவரைத் தனது தகுதியால் வெல்வது என்ற பொருளுக்கு மிகுதியான் மிக்கவை செய்தாரைத் தாம்தம் தகுதியான் வென்று விடல் பொருந்துகிறது.",
+    "sourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "ANSWER_FOUND_CROSSCHECK_REQUIRED",
+    "explanationSourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+  },
+  {
+    "id": "9_tam_u3_tk_q3",
+    "question": "பொருளுக்கேற்ற குறள் அடியைப் பொருத்துக: (அ) ஒருவனின் செயல்பாடுகளே உரசி அறியும் உரைகல்; (ஆ) அவ்வளவிற்குப் பெருமை உண்டாக்கும்; (இ) சுடாத மண்கலத்தில் நீரூற்றி வைப்பதைப் போல.",
+    "options": [
+      "தத்தம் கருமமே கட்டளைக்கல்; அனைத்தானும் ஆன்ற பெருமை தரும்; பசுமண் கலத்துநீர் பெய்திரீஇ யற்று",
+      "பசுமண் கலத்துநீர் பெய்திரீஇ யற்று; தத்தம் கருமமே கட்டளைக்கல்; அனைத்தானும் ஆன்ற பெருமை தரும்",
+      "அனைத்தானும் ஆன்ற பெருமை தரும்; தத்தம் கருமமே கட்டளைக்கல்; பசுமண் கலத்துநீர் பெய்திரீஇ யற்று",
+      "மேலுள்ளவற்றுள் எதுவுமில்லை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மூன்று பொருள்களுக்கும் பொருந்தும் குறள் வரிகளை வரிசையாகத் தேர்ந்தெடுக்க வேண்டும்; இந்த mapping-ஐயும் quiz build-ல் review flag வைத்துள்ளோம்.",
+    "sourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "REVIEW_REQUIRED",
+    "explanationSourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+  },
+  {
+    "id": "9_tam_u3_tk_q4",
+    "question": "“தீரா இடும்பை தருவது எது?”",
+    "options": [
+      "ஆராயாமை, ஐயப்படுதல்",
+      "குணம், குற்றம்",
+      "பெருமை, சிறுமை",
+      "நாடாமை, பேணாமை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "ஆராயாமல் செயல்படுதல், ஐயப்படுதல் ஆகியவை தீராத துன்பத்தைத் தரும் எனக் குறள் கூறுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "ANSWER_FOUND_CROSSCHECK_REQUIRED",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+  },
+  {
+    "id": "9_tam_u3_tk_q5",
+    "question": "சொல்லுக்கான பொருளைத் தொடரில் அமைத்து எழுதுக — கீழ்க்கண்டவற்றில் சரியான பொருள் தொகுப்பு எது?",
+    "options": [
+      "நுணங்கிய கேள்வியர் – நுட்பமான கேள்வியறிவு உடையவர்; பேணாமை – பாதுகாக்காமை; செவிச்செல்வம் – கேட்பதால் பெறும் அறிவு; அறனல்ல செய்யாமை – அறமல்லாத செயல்களைச் செய்யாதிருத்தல்",
+      "நுணங்கிய கேள்வியர் – கேள்வி கேட்காதவர்; பேணாமை – பாதுகாத்தல்; செவிச்செல்வம் – செல்வம்; அறனல்ல செய்யாமை – அறம் செய்தல்",
+      "மேலுள்ள அனைத்தும் தவறு",
+      "முதல் இரண்டு மட்டும் சரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடநூல் சொற்பொருள் வரையறைகள் அப்படியே தொகுக்கப்பட்டுள்ளன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "ANSWER_FOUND_CROSSCHECK_REQUIRED",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+  },
+  {
+    "id": "9_tam_u3_tk_q6",
+    "question": "மௌனவிரதம் கதைக்குப் பொருத்தமான குறள் எது?",
+    "options": [
+      "மறந்தும் பிறன்கேடு சூழற்க சூழின் அறஞ்சூழும் சூழ்ந்தவன் கேடு.",
+      "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து அறனல்ல செய்யாமை நன்று.",
+      "ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப் பேதையின் பேதையார் இல்.",
+      "குணம்நாடிக் குற்றமும் நாடி அவற்றுள் மிகைநாடி மிக்க கொளல்."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கதைப் பொருளை ஒப்பிட்டு தேர்வு செய்ய வேண்டிய வினா; சுயாதீன விடை ஆதாரம் இன்னும் இல்லை.",
+    "sourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html",
+    "sourceName": "Class 9 Tamil Thirukkural evaluation reference",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+    ],
+    "verificationStatus": "REVIEW_REQUIRED",
+    "explanationSourceUrl": "https://www.kalvivithaigal.com/2022/11/9th-tamil-all-unit-book-back-onemark.html"
+  }
+]
