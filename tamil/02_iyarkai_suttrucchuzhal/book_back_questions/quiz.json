@@ -55,5 +55,43 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
+  },
+  {
+    "id": "9_tam_u2_q1",
+    "question": "“மிசை” – என்பதன் எதிர்ச்சொல் என்ன?",
+    "options": [
+      "கீழே",
+      "மேலே",
+      "இசை",
+      "வசை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“மிசை” என்பதற்கு மேலே என்ற பொருள்; அதன் எதிர்ச்சொல் கீழே.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
+    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
+  },
+  {
+    "id": "9_tam_u2_q3",
+    "question": "பொருத்தமான விடையைத் தேர்க.",
+    "options": [
+      "அ, இ",
+      "ஆ, இ",
+      "அ, ஆ",
+      "அ, ஆ, இ"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மூன்று கூற்றுகளும் சரியானவை: திருவள்ளுவர், ஔவையார், இளங்கோவடிகள் ஆகியோருடன் கொடுக்கப்பட்ட தொடர்கள் பொருந்துகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
+    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
   }
 ]
