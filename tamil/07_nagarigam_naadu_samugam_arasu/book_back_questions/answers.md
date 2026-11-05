@@ -44,6 +44,8 @@
 - S2 — [BrainKart — இயல் 7 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11660/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 7 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u7_q1`
+
 ---
 
 ### MCQ2. சொல்லும் பொருளும் பொருந்தியுள்ளது எது?
@@ -131,6 +133,8 @@
    ஆ) கூற்று சரி; காரணம் தவறு
    இ) கூற்று தவறு; காரணம் சரி
    ஈ) கூற்று தவறு; காரணம் தவறு
+
+- **Quiz ID:** `9_tam_u7_q6`
 
 ---
 
