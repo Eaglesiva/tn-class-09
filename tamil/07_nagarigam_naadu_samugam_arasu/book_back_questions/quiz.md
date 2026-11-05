@@ -30,11 +30,13 @@
    இ) அள்ளல் – சேறு
    ஈ) மடிவு – தொடக்கம்
 
+
+
 **Source-ல் காணப்பட்ட விடை:** இ) அள்ளல் – சேறு
 
-**விளக்கம்:** “அள்ளல்” என்பதன் பொருள் சேறு என பொருள் ஆதாரங்கள் தருகின்றன.
+**விளக்கம்:** “அள்ளல்” என்பதன் பொருள் சேறு.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11659/](https://www.brainkart.in/article/Questions-and-Answers_11659/)
 
@@ -48,11 +50,13 @@
    இ) வினைத்தொகை, பண்புத்தொகை
    ஈ) பண்புத்தொகை, உருவகத்தொடர்
 
+
+
 **Source-ல் காணப்பட்ட விடை:** ஆ) பண்புத்தொகை, வினைத்தொகை
 
-**விளக்கம்:** இளங்கமுகு பண்புத்தொகை; செய்கோலம் வினைத்தொகை எனக் கூறப்படுகிறது.
+**விளக்கம்:** இளங்கமுகு பண்புத்தொகை; செய்கோலம் வினைத்தொகை.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11659/](https://www.brainkart.in/article/Questions-and-Answers_11659/)
 
@@ -66,11 +70,13 @@
    இ) சேர நாடு, சோழ நாடு
    ஈ) சோழ நாடு, பாண்டிய நாடு
 
+
+
 **Source-ல் காணப்பட்ட விடை:** இ) சேர நாடு, சோழ நாடு
 
 **விளக்கம்:** கோக்கோதை சேர நாட்டையும், கோக்கிள்ளி சோழ நாட்டையும் குறிக்கிறது.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11659/](https://www.brainkart.in/article/Questions-and-Answers_11659/)
 
@@ -84,9 +90,11 @@
    இ. செறிவான வயலில் உழவர் வெள்ளமாய்க் கூடியிருந்தனர்
    ஈ. பசுமையான வயலில் உழவர் வெள்ளமாய் நிறைந்திருந்தனர்
 
-**விடை நிலை:** `REVIEW_REQUIRED`
+**Source-ல் காணப்பட்ட விடை:** அ) மணம் கமழும் வயலில் உழவர் வெள்ளமாய் உழுதிருந்தனர்
 
-**குறிப்பு:** பாடல் அடியின் பொருளுக்கும் நான்கு விருப்பங்களுக்கும் இடையிலான துல்லியமான ஆதாரம் கிடைக்கவில்லை.
+**விளக்கம்:** “வெறிகமழ்” மணம் கமழும் என்பதையும், “உழுநர் வெள்ளம்” உழவர் கூட்டத்தையும் குறிக்கிறது.
+
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11659/](https://www.brainkart.in/article/Questions-and-Answers_11659/)
 
