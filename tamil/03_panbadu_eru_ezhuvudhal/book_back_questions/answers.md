@@ -46,6 +46,8 @@
 - S3 — [BrainKart — இயல் 3 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11626/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S4 — [StudentsGuide360 — இயல் 3 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-3-book-back-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u3_q1`
+
 ---
 
 ### MCQ2. முறையான தொடர் அமைப்பினைக் குறிப்பிடுக.
@@ -66,6 +68,8 @@
 - S2 — [BrainKart — இயல் 3 பகுதி II](https://www.brainkart.in/article/Questions-and-Answers-Part-II_11625/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [BrainKart — இயல் 3 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11626/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S4 — [StudentsGuide360 — இயல் 3 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-3-book-back-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
+
+- **Quiz ID:** `9_tam_u3_q2`
 
 ---
 
@@ -109,6 +113,8 @@
 - S3 — [BrainKart — இயல் 3 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11626/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S4 — [StudentsGuide360 — இயல் 3 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-3-book-back-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u3_q4`
+
 ---
 
 ### MCQ5. சொற்றொடர்களை முறைப்படுத்துக.
@@ -120,6 +126,8 @@
    ii) ஆ – இ - அ
    iii) இ - ஆ - அ
    iv) இ – அ - ஆ
+
+- **Quiz ID:** `9_tam_u3_q5`
 
 ---
 
