@@ -1,7 +1,7 @@
 [
   {
     "id": "9_tam_u6_q1",
-    "question": "பல்லவர் காலச் சிற்பக்கலைக்குச் சிறந்த சான்று எது?",
+    "question": "பல்லவர் காலச் சிற்பக்கலைக்குச் சிறந்த சான்று ___________",
     "options": [
       "மாமல்லபுரம்",
       "பிள்ளையார்பட்டி",
@@ -10,91 +10,31 @@
     ],
     "correctOptionIndex": 0,
     "explanation": "பல்லவர் காலச் சிற்பக்கலைக்குச் சிறந்த சான்று மாமல்லபுரம்.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-1/",
-    "sourceName": "Class 9 Tamil Unit 6 answer references",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-1/",
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html"
-    ],
-    "verificationStatus": "ANSWER_CONFIRMED",
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-1/"
-  },
-  {
-    "id": "9_tam_u6_q2",
-    "question": "“பொதுவர்கள் பொலிஉறப் போர்அடித்திடும்” என்பது எந்த நிலப்பகுதியைக் குறிக்கிறது?",
-    "options": [
-      "குறிஞ்சி",
-      "நெய்தல்",
-      "முல்லை",
-      "பாலை"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "பொதுவர்கள்/ஆயர்கள் வாழும் நிலப்பகுதி முல்லை.",
-    "sourceUrl": "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html",
-    "sourceName": "Thamizhpozhil — Class 9 Tamil question and answers",
-    "additionalSourceUrls": [
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html"
-    ],
-    "verificationStatus": "ANSWER_CONFIRMED",
-    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html"
-  },
-  {
-    "id": "9_tam_u6_q3",
-    "question": "“மரவேர்” என்பது எந்தப் புணர்ச்சி?",
-    "options": [
-      "இயல்பு",
-      "திரிதல்",
-      "தோன்றல்",
-      "கெடுதல்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "மர + வேர் இணையும் போது நிலைமொழி இறுதி எழுத்து கெடுவதால் கெடுதல் புணர்ச்சி.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/",
-    "sourceName": "BrainKart — Unit 6 answer key",
+    "sourceName": "BrainKart — இயல் 6 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-1/"
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
     ],
-    "verificationStatus": "ANSWER_CONFIRMED",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
-  },
-  {
-    "id": "9_tam_u6_q4",
-    "question": "“அதிரப் புகுதக் கனாக்கண்டேன்” — யார் கனவில் யார் அதிரப் புகுந்தார்?",
-    "options": [
-      "கண்ணனின் கனவில் ஆண்டாள் புகுந்தாள்",
-      "தோழியின் கனவில் ஆண்டாள் புகுந்தாள்",
-      "ஆண்டாளின் கனவில் தோழி புகுந்தாள்",
-      "ஆண்டாளின் கனவில் கண்ணன் புகுந்தான்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "“அதிரப் புகுதக் கனாக் கண்டேன்” என்ற நாச்சியார் திருமொழி வரியில் ஆண்டாளின் கனவில் கண்ணன் புகுந்ததாகக் கூறப்படுகிறது.",
-    "sourceUrl": "https://www.tamil.theforex7.com/article/Questions-and-Answers_11650/",
-    "sourceName": "Tamil TheForex7 — இயல் 6 பாடநூல் வினா விடை",
-    "additionalSourceUrls": [
-      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-3/",
-      "https://samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-nachiyar-thirumozhi-question-answer/"
-    ],
-    "verificationStatus": "ANSWER_CONFIRMED",
+    "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
   },
   {
     "id": "9_tam_u6_q5",
-    "question": "திருநாதர்குன்றில் ஒரு பாறையில் புடைப்புச் சிற்பங்களாக உள்ளவை எவை?",
+    "question": "திருநாதர்குன்றில் ஒரு பாறையில் புடைப்புச் சிற்பங்களாக உள்ளவை ________ .",
     "options": [
       "விலங்கு உருவங்கள்",
-      "தீர்த்தங்கரர் உருவங்கள்",
+      "தீர்த்தங்கர் உருவங்கள்",
       "தெய்வ உருவங்கள்",
       "நாட்டியம் ஆடும் பாவை உருவங்கள்"
     ],
     "correctOptionIndex": 1,
     "explanation": "திருநாதர்குன்றுப் பாறையில் தீர்த்தங்கரர் உருவங்கள் புடைப்புச் சிற்பங்களாக உள்ளன.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/",
-    "sourceName": "Class 9 Tamil Unit 6 answer references",
+    "sourceName": "BrainKart — இயல் 6 Book Back Q&A",
     "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-6-1/",
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html"
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
     ],
-    "verificationStatus": "ANSWER_CONFIRMED",
+    "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
   }
 ]
