@@ -74,5 +74,24 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/"
+  },
+  {
+    "id": "9_tam_u4_q4",
+    "question": "பின்வரும் தொடர்களைப் படித்து ‘நான்’ யார் என்று கண்டுபிடிக்க:\nஅறிவியல் வாகனத்தில் நிறுத்தப்படுவேன்\nஎல்லாக் கோளிலும் ஏற்றப்படுவேன்\nஇளையவர் கூட்டம் என்னை ஏந்தி நடப்பர்",
+    "options": [
+      "இணையம்",
+      "தமிழ்",
+      "கணினி",
+      "ஏவுகணை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கொடுக்கப்பட்ட கவிதை வரிகள் தமிழ்மொழியை அறிவியல் வாகனத்தில் ஏற்றிச் செல்லப்படுவதாகக் குறிப்பிடுகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/",
+    "sourceName": "BrainKart — இயல் 4 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/"
   }
 ]
