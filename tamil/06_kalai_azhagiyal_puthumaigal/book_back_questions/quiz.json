@@ -19,25 +19,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
   },
   {
-    "id": "9_tam_u6_q5",
-    "question": "திருநாதர்குன்றில் ஒரு பாறையில் புடைப்புச் சிற்பங்களாக உள்ளவை ________ .",
-    "options": [
-      "விலங்கு உருவங்கள்",
-      "தீர்த்தங்கர் உருவங்கள்",
-      "தெய்வ உருவங்கள்",
-      "நாட்டியம் ஆடும் பாவை உருவங்கள்"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "திருநாதர்குன்றுப் பாறையில் தீர்த்தங்கரர் உருவங்கள் புடைப்புச் சிற்பங்களாக உள்ளன.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/",
-    "sourceName": "BrainKart — இயல் 6 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
-  },
-  {
     "id": "9_tam_u6_q2",
     "question": "’பொதுவர்கள் பொலிஉறப் போர்அடித்திடும்’ நிலப் பகுதி _______",
     "options": [
@@ -95,6 +76,25 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
   },
   {
+    "id": "9_tam_u6_q5",
+    "question": "திருநாதர்குன்றில் ஒரு பாறையில் புடைப்புச் சிற்பங்களாக உள்ளவை ________ .",
+    "options": [
+      "விலங்கு உருவங்கள்",
+      "தீர்த்தங்கர் உருவங்கள்",
+      "தெய்வ உருவங்கள்",
+      "நாட்டியம் ஆடும் பாவை உருவங்கள்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "திருநாதர்குன்றுப் பாறையில் தீர்த்தங்கரர் உருவங்கள் புடைப்புச் சிற்பங்களாக உள்ளன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/",
+    "sourceName": "BrainKart — இயல் 6 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
+  },
+  {
     "id": "9_tam_u6_tkq2",
     "question": "பொருளுக்கேற்ற அடியைக் கண்டுபிடித்துப் பொருத்துக.",
     "options": [
@@ -131,44 +131,6 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-thirukural-2-question-answer/"
-  },
-  {
-    "id": "9_tam_u6_tkq5",
-    "question": "“இறக்கும்வரை உள்ள நோய் எது?” என்ற குறள் யாரைக் குறிக்கிறது?",
-    "options": [
-      "அறிவுரை கேட்டும் தானாகவும் நன்மை செய்யும் ஒருவரை",
-      "அறிவுரை கூறினாலும் செய்யாமல், தானாகவும் தெளிந்து செயல்படாத ஒருவரை",
-      "பிறருக்கு உதவி செய்து வாழ்பவரை",
-      "தீய செயல்களைத் தவிர்த்து வாழ்பவரை"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "“ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்” என்ற குறள் அறிவுரை கேட்டும் செய்யாதவரையும், தானாகவும் தெளியாதவரையும் குறிக்கிறது.",
-    "sourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/",
-    "sourceName": "SCERT / Tamil guide references — இயல் 6",
-    "additionalSourceUrls": [
-      "https://www.saranextgen.com/help/482/25k/chapter-6-6-tirukkural-chapter-6-6-9th-tamil-guide-samacheer-kalvi-solutions"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/"
-  },
-  {
-    "id": "9_tam_u6_tkq8",
-    "question": "“காணாதான் காட்டுவான் தான்காணான் காணாதான் கண்டானாம் தான்கண்ட வாறு” என்ற குறட்பாவில் பயின்றுவரும் தொடைநயங்கள் எவை?",
-    "options": [
-      "சீர் மோனை, சீர் எதுகை",
-      "மோனை, இயைபு",
-      "எதுகை, முரண்",
-      "அளபெடை, செந்தொடை"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "குறளில் சீர்களில் முதல் எழுத்து ஒத்துவரும் மோனையும், இரண்டாம் எழுத்து ஒத்துவரும் எதுகையும் அமைந்துள்ளன.",
-    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/",
-    "sourceName": "SCERT / Tamil guide references — இயல் 6",
-    "additionalSourceUrls": [
-      "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
   },
   {
     "id": "9_tam_u6_tkq4a",
@@ -285,6 +247,25 @@
     "explanationSourceUrl": "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
   },
   {
+    "id": "9_tam_u6_tkq5",
+    "question": "“இறக்கும்வரை உள்ள நோய் எது?” என்ற குறள் யாரைக் குறிக்கிறது?",
+    "options": [
+      "அறிவுரை கேட்டும் தானாகவும் நன்மை செய்யும் ஒருவரை",
+      "அறிவுரை கூறினாலும் செய்யாமல், தானாகவும் தெளிந்து செயல்படாத ஒருவரை",
+      "பிறருக்கு உதவி செய்து வாழ்பவரை",
+      "தீய செயல்களைத் தவிர்த்து வாழ்பவரை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்” என்ற குறள் அறிவுரை கேட்டும் செய்யாதவரையும், தானாகவும் தெளியாதவரையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/482/25k/chapter-6-6-tirukkural-chapter-6-6-9th-tamil-guide-samacheer-kalvi-solutions"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/"
+  },
+  {
     "id": "9_tam_u6_tkq6",
     "question": "“அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொடு ஐந்துசால்பு ஊன்றிய தூண்” என்ற குறட்பாவில் பயின்றுவரும் அணி எது?",
     "options": [
@@ -302,5 +283,24 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers.html"
+  },
+  {
+    "id": "9_tam_u6_tkq8",
+    "question": "“காணாதான் காட்டுவான் தான்காணான் காணாதான் கண்டானாம் தான்கண்ட வாறு” என்ற குறட்பாவில் பயின்றுவரும் தொடைநயங்கள் எவை?",
+    "options": [
+      "சீர் மோனை, சீர் எதுகை",
+      "மோனை, இயைபு",
+      "எதுகை, முரண்",
+      "அளபெடை, செந்தொடை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறளில் சீர்களில் முதல் எழுத்து ஒத்துவரும் மோனையும், இரண்டாம் எழுத்து ஒத்துவரும் எதுகையும் அமைந்துள்ளன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
   }
 ]
