@@ -78,9 +78,9 @@
 
 **Source-ல் காணப்பட்ட விடை:** ஆ) தமிழ்
 
-**விளக்கம்:** கவிதை வரிகள் தமிழ்மொழியைக் குறிக்கின்றன; answer source cross-check தேவை.
+**விளக்கம்:** கவிதை வரிகள் தமிழ்மொழியைக் குறிக்கின்றன.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/)
 
