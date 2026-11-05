@@ -36,5 +36,81 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q2",
+    "question": "சொல்லும் பொருளும் பொருந்தியுள்ளது எது?",
+    "options": [
+      "பருக்கை – இருக்கை",
+      "புள் – தாவரம்",
+      "அள்ளல் – சேறு",
+      "மடிவு – தொடக்கம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "“அள்ளல்” என்பதன் பொருள் சேறு.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q3",
+    "question": "இளங்கமுகு, செய்கோலம் – இலக்கணக்குறிப்புத் தருக:",
+    "options": [
+      "உருவகத்தொடர், வினைத்தொகை",
+      "பண்புத்தொகை, வினைத்தொகை",
+      "வினைத்தொகை, பண்புத்தொகை",
+      "பண்புத்தொகை, உருவகத்தொடர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இளங்கமுகு பண்புத்தொகை; செய்கோலம் வினைத்தொகை.",
+    "sourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3"
+  },
+  {
+    "id": "9_tam_u7_q4",
+    "question": "நச்சிலைவேல் கோக்கோதை நாடு, நல்யானைக் கோக்கிள்ளி நாடு - இத்தொடர்களில் குறிப்பிடப்படுகின்ற நாடுகள் முறையே,",
+    "options": [
+      "பாண்டிய நாடு, சேர நாடு",
+      "சோழ நாடு, சேர நாடு",
+      "சேர நாடு, சோழ நாடு",
+      "சோழ நாடு, பாண்டிய நாடு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கோக்கோதை சேர நாட்டையும், கோக்கிள்ளி சோழ நாட்டையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q5",
+    "question": "வெறிகமழ் கழனியுள் உழுநர் வெள்ளமே – இவ்வடி உணர்த்தும் பொருள் யாது?",
+    "options": [
+      "மணம் கமழும் வயலில் உழவர் வெள்ளமாய் உழுதிருந்தனர்",
+      "வறண்ட வயலில் உழவர் வெள்ளமாய் அமர்ந்திருந்தனர்",
+      "செறிவான வயலில் உழவர் வெள்ளமாய்க் கூடியிருந்தனர்",
+      "பசுமையான வயலில் உழவர் வெள்ளமாய் நிறைந்திருந்தனர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“வெறிகமழ்” மணம் கமழும் என்பதையும், “உழுநர் வெள்ளம்” உழவர் கூட்டத்தையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15876"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
   }
 ]
