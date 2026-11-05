@@ -47,6 +47,8 @@
 - S1 — [BrainKart — இயல் 1 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11607/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [StudentsGuide360 — இயல் 1 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u1_q1`
+
 ---
 
 ### MCQ2. தமிழ்விடு தூது ……………. என்னும் இலக்கிய வகையைச் சேர்ந்தது.
@@ -65,6 +67,8 @@
 **Source links:**
 - S1 — [BrainKart — இயல் 1 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11607/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [StudentsGuide360 — இயல் 1 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
+
+- **Quiz ID:** `9_tam_u1_q2`
 
 ---
 
@@ -92,6 +96,8 @@
 - S1 — [BrainKart — இயல் 1 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11607/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [StudentsGuide360 — இயல் 1 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u1_q3`
+
 ---
 
 ### MCQ4. ”காலம் பிறக்கும்முன் பிறந்தது தமிழே! - எந்தக் காலமும் நிலையாய் இருப்பதும் தமிழே!” - இவ்வடிகளில் பயின்று வரும் நயங்கள்:
@@ -111,6 +117,8 @@
 - S1 — [BrainKart — இயல் 1 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11607/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [StudentsGuide360 — இயல் 1 வினா-விடை](https://www.studentsguide360.com/9th-tamil-unit-1-question-answer/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u1_q4`
+
 ---
 
 ### MCQ5. அழியா வனப்பு, ஒழியா வனப்பு, சிந்தா மணி - அடிக்கோடிட்ட சொற்களுக்கான இலக்கணக்குறிப்பு:
@@ -119,6 +127,8 @@
    ஆ. ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்
    இ. பண்புத்தொகை
    ஈ. வினைத்தொகை
+
+- **Quiz ID:** `9_tam_u1_q5`
 
 ---
 
