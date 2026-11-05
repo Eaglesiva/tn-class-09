@@ -1,0 +1,20 @@
+{
+  "book_id": "class_09_social_science_em",
+  "class": "9",
+  "subject": "Social Science",
+  "medium": "English",
+  "official_filename": "9th_Social Science_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Social%20Science_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 116644940,
+  "etag": "5d3a6ead28190d9fbc1f9ff5e8ba9145",
+  "last_modified": "Thu, 22 Oct 2026 07:29:07 GMT",
+  "sha256": "ee52e826762c93ac48600e47e8ddb9526c9224be63a18191c3a1162633f47f09",
+  "expected_page_count": 328,
+  "actual_page_count": 328,
+  "pages_replaced_count": 328,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:18:17Z",
+  "zero_master_pdf_persistence_verified": true
+}
