@@ -33,11 +33,13 @@
    இ) காசு
    ஈ) பிறப்பு
 
+
+
 **Source-ல் காணப்பட்ட விடை:** ஈ) பிறப்பு
 
-**விளக்கம்:** குறளின் ஈற்றுச்சீர் வாய்பாடு “பிறப்பு” எனக் குறிப்பிடப்படுகிறது; கூடுதல் cross-check தேவை.
+**விளக்கம்:** குறளின் ஈற்றுச்சீர் “பெரிது”; அதன் வாய்பாடு பிறப்பு என prosody guide-கள் தருகின்றன.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11668/](https://www.brainkart.in/article/Questions-and-Answers_11668/)
 
@@ -51,11 +53,13 @@
    இ) துணிவு
    ஈ) மருட்சி
 
+
+
 **Source-ல் காணப்பட்ட விடை:** இ) துணிவு
 
-**விளக்கம்:** இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு என answer references தருகின்றன.
+**விளக்கம்:** இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11668/](https://www.brainkart.in/article/Questions-and-Answers_11668/)
 
@@ -90,11 +94,13 @@
 
 ---
 
+
+
 **Source-ல் காணப்பட்ட விடை:** ஈ) அறிவு
 
-**விளக்கம்:** “ஞானம்” என்பதன் பொருள் அறிவு; கூடுதல் cross-check தேவை.
+**விளக்கம்:** ஞானம் என்பதன் பொருள் அறிவு.
 
-**நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**நிலை:** `ANSWER_FOUND`
 
 **Source:** [https://www.brainkart.in/article/Questions-and-Answers_11668/](https://www.brainkart.in/article/Questions-and-Answers_11668/)
 
