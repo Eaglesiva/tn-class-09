@@ -117,9 +117,9 @@
 
 **Source-ல் காணப்பட்ட விடை:** ஆ) தமிழ்
 
-**காரண விளக்கம்:** கவிதை வரிகள் தமிழ்மொழியை அறிவியல் வாகனத்தில் ஏற்றப்படுவதாகக் குறிக்கின்றன; source cross-check தேவை.
+**காரண விளக்கம்:** கவிதை வரிகள் தமிழ்மொழியைக் குறிக்கின்றன.
 
-**சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
+**சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
 - SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 96; மதிப்பீட்டுப் பக்கம் 116 — `OFFICIAL_TEXTBOOK_SOURCE`.
