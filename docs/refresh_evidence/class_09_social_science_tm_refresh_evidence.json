@@ -1,0 +1,20 @@
+{
+  "book_id": "class_09_social_science_tm",
+  "class": "9",
+  "subject": "Social Science",
+  "medium": "Tamil",
+  "official_filename": "9th_Social Science_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Social%20Science_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 122323894,
+  "etag": "cb876d0e839ee96db96eb081ee87e883",
+  "last_modified": "Thu, 22 Oct 2026 07:29:08 GMT",
+  "sha256": "76ed2a8ff4a3cca4e1ef3ec2bd1e562a83add20142fdc0b0c78fc49b9a4c95da",
+  "expected_page_count": 344,
+  "actual_page_count": 344,
+  "pages_replaced_count": 344,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:18:03Z",
+  "zero_master_pdf_persistence_verified": true
+}
