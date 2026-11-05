@@ -36,5 +36,138 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
+  },
+  {
+    "id": "9_tam_u6_q2",
+    "question": "’பொதுவர்கள் பொலிஉறப் போர்அடித்திடும்’ நிலப் பகுதி _______",
+    "options": [
+      "குறிஞ்சி",
+      "நெய்தல்",
+      "முல்லை",
+      "பாலை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பொதுவர்கள் முல்லை நில மக்களாகக் குறிப்பிடப்படுகின்றனர்; பாடல் வரியும் முல்லை நிலத்தைச் சார்ந்தது.",
+    "sourceUrl": "https://www.studentsguide360.com/9th-tamil-guide-unit-6-2/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11650/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.studentsguide360.com/9th-tamil-guide-unit-6-2/"
+  },
+  {
+    "id": "9_tam_u6_q3",
+    "question": "மரவேர் என்பது ________ புணர்ச்சி",
+    "options": [
+      "இயல்பு",
+      "திரிதல்",
+      "தோன்றல்",
+      "கெடுதல்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மரம் + வேர் = மரவேர்; நிலைமொழியின் இறுதி ‘ம்’ கெட்டதால் இது கெடுதல் விகாரப் புணர்ச்சி.",
+    "sourceUrl": "https://www.tamilvu.org/courses/new_courses/level04/sem02/html/lev422700273.htm",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11650/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.tamilvu.org/courses/new_courses/level04/sem02/html/lev422700273.htm"
+  },
+  {
+    "id": "9_tam_u6_q4",
+    "question": "’அதிரப் புகுதக் கனாக்கண்டேன்’ - யார் கனவில் யார் அதிரப் புகுந்தார்?",
+    "options": [
+      "கண்ணனின் கனவில் ஆண்டாள் புகுந்தாள்",
+      "தோழியின் கனவில் ஆண்டாள் புகுந்தாள்",
+      "ஆண்டாளின் கனவில் தோழி புகுந்தாள்",
+      "ஆண்டாளின் கனவில் கண்ணன் புகுந்தான்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "நாச்சியார் திருமொழிப் பாடலின் கனவுக் காட்சியில் ஆண்டாளின் கனவில் கண்ணன் புகுந்ததாகக் கூறப்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-nachiyar-thirumolizhi-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11650/"
+  },
+  {
+    "id": "9_tam_u6_tkq2",
+    "question": "பொருளுக்கேற்ற அடியைக் கண்டுபிடித்துப் பொருத்துக.",
+    "options": [
+      "1-அ, 2-ஆ, 3-இ",
+      "1-ஆ, 2-இ, 3-அ",
+      "1-இ, 2-அ, 3-ஆ",
+      "1-அ, 2-இ, 3-ஆ"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பகைவரையும் நட்பாக்கும் கருவி–மாற்றாரை மாற்றும் படை; தெரிந்த அளவில் அறிவுடையவனாகத் தோன்றுவான்–கண்டானாம் தான்கண்ட வாறு; அறம் வெட்கப்பட்டு விலகுவது–அறம்நாணத் தக்கது உடைத்து.",
+    "sourceUrl": "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-thirukural-2-question-answer/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-thirukural-2-question-answer/"
+  },
+  {
+    "id": "9_tam_u6_tkq3",
+    "question": "ஐந்து சால்புகளில் இரண்டு எவை?",
+    "options": [
+      "வானமும் நாணமும்",
+      "நாணமும் இணக்கமும்",
+      "இணக்கமும் சுணக்கமும்",
+      "இணக்கமும் பிணக்கமும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "சான்றாண்மையின் ஐந்து பண்புகளில் நாணமும் ஒப்புரவு (இணக்கம்) ஆகியவை அடங்கும்.",
+    "sourceUrl": "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-thirukural-2-question-answer/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.samacheerkalviguide.com/samacheer-kalvi-9th-tamil-guide-thirukural-2-question-answer/"
+  },
+  {
+    "id": "9_tam_u6_tkq5",
+    "question": "“இறக்கும்வரை உள்ள நோய் எது?” என்ற குறள் யாரைக் குறிக்கிறது?",
+    "options": [
+      "அறிவுரை கேட்டும் தானாகவும் நன்மை செய்யும் ஒருவரை",
+      "அறிவுரை கூறினாலும் செய்யாமல், தானாகவும் தெளிந்து செயல்படாத ஒருவரை",
+      "பிறருக்கு உதவி செய்து வாழ்பவரை",
+      "தீய செயல்களைத் தவிர்த்து வாழ்பவரை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்” என்ற குறள் அறிவுரை கேட்டும் செய்யாதவரையும், தானாகவும் தெளியாதவரையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/482/25k/chapter-6-6-tirukkural-chapter-6-6-9th-tamil-guide-samacheer-kalvi-solutions"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.freetnbooks.com/9th-std-tamil-guide-term-2-lesson-2-6/"
+  },
+  {
+    "id": "9_tam_u6_tkq8",
+    "question": "“காணாதான் காட்டுவான் தான்காணான் காணாதான் கண்டானாம் தான்கண்ட வாறு” என்ற குறட்பாவில் பயின்றுவரும் தொடைநயங்கள் எவை?",
+    "options": [
+      "சீர் மோனை, சீர் எதுகை",
+      "மோனை, இயைபு",
+      "எதுகை, முரண்",
+      "அளபெடை, செந்தொடை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறளில் சீர்களில் முதல் எழுத்து ஒத்துவரும் மோனையும், இரண்டாம் எழுத்து ஒத்துவரும் எதுகையும் அமைந்துள்ளன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/",
+    "sourceName": "SCERT / Tamil guide references — இயல் 6",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
   }
 ]
