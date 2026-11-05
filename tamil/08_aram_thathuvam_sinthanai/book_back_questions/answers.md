@@ -45,6 +45,8 @@
 - S2 — [BrainKart — இயல் 8 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11669/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [TamilVithai — இயல் 8 ஒருமதிப்பெண் வினா-விடை](https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u8_q1`
+
 ---
 
 ### MCQ2. காலத்தினால் செய்த நன்றி சிறிதெனினும்
@@ -107,6 +109,8 @@
 - S1 — [BrainKart — இயல் 8 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11668/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [BrainKart — இயல் 8 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11669/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [TamilVithai — இயல் 8 ஒருமதிப்பெண் வினா-விடை](https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
+
+- **Quiz ID:** `9_tam_u8_q4`
 
 ---
 
