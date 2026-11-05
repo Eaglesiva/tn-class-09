@@ -6,6 +6,8 @@
 
 **அடிப்படை:** [`questions.md`](./questions.md) — அசல் கேள்வி உரை, விருப்பங்கள், வரிசை மற்றும் பிரிவுகள் பாதுகாக்கப்பட்டுள்ளன.
 
+**அதிகாரப்பூர்வ பாடநூல் ஆதாரம்:** [SCERT 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — இந்த இயலின் பாடப்பகுதி அச்சுப் பக்கம் 124; மதிப்பீட்டு வினாக்கள் அச்சுப் பக்கம் 144. 2026–27 edition audit-ல் 272 பக்கங்களும் GitHub split PDF-களும் text-equivalent என உறுதிப்படுத்தப்பட்டுள்ளன.
+
 **பணி வரம்பு:** எழுத்து விடை / பயிற்சி வினாக்களுக்கு விடை எழுதப்படவில்லை. அவற்றுக்கு `விடைக்குறிப்பு`, `சாதாரண விடை`, `விரிவான விடை` ஆகிய மூன்று காலி இடங்களும் நேரடி Source links-மும் மட்டும்.
 
 ---
@@ -14,6 +16,7 @@
 
 | ID | Source | Direct page | நிலை |
 |---|---|---|---|
+| SCERT | 9th Tamil Text — 2024 Reprint | [Official SCERT PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) | `OFFICIAL_TEXTBOOK_SOURCE` — printed book page 124; assessment page 144 |
 | S1 | BrainKart — இயல் 5 Book Back Q&A | [https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) | `SOURCE_REFERENCE` — third-party educational answer page |
 | S2 | OMTEX — இயல் 5 வினா-விடை | [https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) | `SOURCE_REFERENCE` — third-party educational answer page |
 | S3 | Kalvi Tips — இயல் 5 வினா-விடை | [https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) | `SOURCE_REFERENCE` — third-party educational answer page |
@@ -47,6 +50,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -71,6 +75,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -91,6 +96,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -115,6 +121,7 @@
 **குறிப்பு:** questions.md-ல் “வானொலி உரை”; சில source-களில் “மேடைப்பேச்சு” என வேறுபடுவதால் விடை உறுதி செய்யப்படவில்லை.
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -137,6 +144,7 @@
 **சரிபார்ப்பு நிலை:** `ANSWER_FOUND_CROSSCHECK_REQUIRED`
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -153,7 +161,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -168,7 +177,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -183,7 +193,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -201,7 +212,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -218,7 +230,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -236,7 +249,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -251,7 +265,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -266,7 +281,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -281,7 +297,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -299,7 +316,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -316,7 +334,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -331,7 +350,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -349,7 +369,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -372,7 +393,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -391,7 +413,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -412,7 +435,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -435,7 +459,8 @@
 
 #### 📖 விரிவான விடை
 
-**Source links மட்டும்:**
+**Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
@@ -451,6 +476,7 @@
 - நூலகவியல் - Library Science
 
 **Source links:**
+- SCERT — [அதிகாரப்பூர்வ 9th Tamil Text PDF](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Tamil_Text.pdf) — அச்சுப் பாடப்பக்கம் 124; மதிப்பீட்டுப் பக்கம் 144 — `OFFICIAL_TEXTBOOK_SOURCE`.
 - S1 — [BrainKart — இயல் 5 Book Back Q&A](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 5 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [Kalvi Tips — இயல் 5 வினா-விடை](https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-5-guide-tamilnadu-school-books.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
