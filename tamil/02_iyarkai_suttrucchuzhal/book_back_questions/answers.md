@@ -61,6 +61,8 @@
 - S1 — [BrainKart — இயல் 2 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11616/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 2 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-2-uyirukku-ver-questions-and-answers-samacheer-kalvi-guide.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u2_q2`
+
 ---
 
 ### MCQ3. பொருத்தமான விடையைத் தேர்க.
@@ -102,6 +104,8 @@
 - S1 — [BrainKart — இயல் 2 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11616/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S2 — [OMTEX — இயல் 2 வினா-விடை](https://www.omtexclasses.com/2025/08/9th-tamil-iyal-2-uyirukku-ver-questions-and-answers-samacheer-kalvi-guide.html) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u2_q4`
+
 ---
 
 ### MCQ5. மல்லல் மூதூர் வயவேந்தே - கோடிட்ட சொல்லின் பொருள் என்ன?
@@ -110,6 +114,8 @@
    ஆ) பூவரசு மரம்
    இ) வளம்
    ஈ) பெரிய
+
+- **Quiz ID:** `9_tam_u2_q5`
 
 ---
 
