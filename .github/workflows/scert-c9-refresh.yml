@@ -1,0 +1,43 @@
+name: SCERT Class 9 Official PDF Refresh (5 Books)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'scert/refresh/class-09'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh_class9_books:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pymupdf requests
+
+      - name: Run Cloud Edition Refresh Script
+        run: |
+          python scripts/cloud_runner_refresh_c9.py
+
+      - name: Verify Git Safety & Check Modified Files
+        run: |
+          git status --short
+          git diff --stat
+
+      - name: Push All Book Commits
+        run: |
+          git push origin HEAD:${{ github.ref_name }}
