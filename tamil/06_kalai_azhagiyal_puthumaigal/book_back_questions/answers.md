@@ -44,6 +44,8 @@
 - S2 — [BrainKart — இயல் 6 மொழிப் பயிற்சி](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 - S3 — [BrainKart — இயல் 6 திருக்குறள் மதிப்பீடு](https://www.brainkart.in/article/Questions-and-Answers_11652/) — தொடர்புடைய நேரடி answer/reference page (`SOURCE_REFERENCE`).
 
+- **Quiz ID:** `9_tam_u6_q1`
+
 ---
 
 ### MCQ2. ’பொதுவர்கள் பொலிஉறப் போர்அடித்திடும்’ நிலப் பகுதி _______
@@ -106,6 +108,8 @@
    ஆ) தீர்த்தங்கர் உருவங்கள்
    இ) தெய்வ உருவங்கள்
    ஈ) நாட்டியம் ஆடும் பாவை உருவங்கள்
+
+- **Quiz ID:** `9_tam_u6_q5`
 
 ---
 
