@@ -17,5 +17,82 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11677/"
+  },
+  {
+    "id": "9_tam_u9_q2",
+    "question": "தமிழ்ப் புலவரைப் போலவே உரோமச் சிந்தனையாளர் கொண்ட கொள்கை",
+    "options": [
+      "நிலையற்ற வாழ்க்கை",
+      "பிறருக்காக வாழ்தல்",
+      "இம்மை மறுமை",
+      "ஒன்றே உலகம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "தமிழ்ப் புலவர் மற்றும் உரோமச் சிந்தனையாளர் இருவரும் உலகை ஒன்றாகக் காணும் கொள்கையைப் பகிர்ந்தனர்.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
+  },
+  {
+    "id": "9_tam_u9_q3",
+    "question": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல்",
+    "options": [
+      "ஒரு சிறு இசை",
+      "முன்பின்",
+      "அந்நியமற்ற நதி",
+      "உயரப் பறத்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல் “ஒரு சிறு இசை”.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
+  },
+  {
+    "id": "9_tam_u9_q4",
+    "question": "யா மரம் என்பது எந்த நிலத்தில் வளரும்?",
+    "options": [
+      "குறிஞ்சி",
+      "மருதம்",
+      "பாலை",
+      "நெய்தல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "யா மரம் பாலை நிலத்துடன் தொடர்புடைய மரமாகக் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://braingrain.in/grade9-tamil/chapter_09-9",
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf"
+  },
+  {
+    "id": "9_tam_u9_q5",
+    "question": "கேடில் விழுச் செல்வம் கல்வி ஒருவற்கு\nமாடல்ல மற்றை யவை\n- இக்குறளில் பயின்று வந்துள்ள அணி?",
+    "options": [
+      "சொல் பின்வருநிலையணி",
+      "பொருள் பின்வருநிலையணி",
+      "சொற்பொருள் பின்வருநிலையணி",
+      "வஞ்சப் புகழ்ச்சியணி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கல்வி என்ற செல்வத்தையும் “மாடு” என்ற சொல்லையும் ஒரே பொருளில் (செல்வம்) குறிப்பதால் பொருள் பின்வருநிலையணி என வகைப்படுத்தப்படுகிறது.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://askfilo.com/user-question-answers-smart-solutions/mtippiittu-plvull-terik-1-imyttuk-koottu-uyrntnnnnnn-3430303535303539"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
   }
 ]
