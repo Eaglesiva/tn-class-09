@@ -93,7 +93,7 @@
 
 **நிலை:** `ANSWER_FOUND`
 
-**Source:** [https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/)
+**Source:** [StudyToday — இயல் 5.4](<https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-5-4>)
 
 ---
 
