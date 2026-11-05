@@ -36,5 +36,64 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u8_q2",
+    "question": "காலத்தினால் செய்த நன்றி சிறிதெனினும்\nஞாலத்தின் மாணப் பெரிது\n- இக்குறளின் ஈற்றுச் சீரின் வாய்பாடு யாது?",
+    "options": [
+      "நாள்",
+      "மலர்",
+      "காசு",
+      "பிறப்பு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "குறளின் ஈற்றுச்சீர் “பெரிது”; அதன் வாய்பாடு பிறப்பு என prosody guide-கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html",
+      "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u8_q3",
+    "question": "முண்டி மோதும் துணிவே இன்பம் – இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது",
+    "options": [
+      "மகிழ்ச்சி",
+      "வியப்பு",
+      "துணிவு",
+      "மருட்சி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு.",
+    "sourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-8-2/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
+  },
+  {
+    "id": "9_tam_u8_q5",
+    "question": "‘ஞானம்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "தானம்",
+      "தெளிவு",
+      "சினம்",
+      "அறிவு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ஞானம் என்பதன் பொருள் அறிவு.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
   }
 ]
