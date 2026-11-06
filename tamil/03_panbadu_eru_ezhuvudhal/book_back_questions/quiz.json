@@ -38,6 +38,25 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
   },
   {
+    "id": "9_tam_u3_q3",
+    "question": "பின்வருவனவற்றுள் தவறான செய்தியைத் தரும் தொடர் –",
+    "options": [
+      "அரிக்கமேடு அகழாய்வில் ரோமானிய நாணயங்கள் கிடைத்தன.",
+      "புறப்பொருள் வெண்பாமாலை என்னும் இலக்கண நூலிலும் ஏறுகோள் குறித்துக் கூறப்பட்டுள்ளது.",
+      "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களின் பின் வல்லினம் மிகாது.",
+      "பட்டிமண்டபம் பற்றிய குறிப்பு மணிமேகலையில் காணப்படுகிறது."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களுக்குப் பின் வல்லினம் மிகும் இடங்கள் உள்ளதால் “மிகாது” எனக் கூறும் மூன்றாவது செய்தியே தவறானது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
+    "sourceName": "BrainKart / OMTEX — இயல் 3 திருக்குறள்",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+  },
+  {
     "id": "9_tam_u3_q4",
     "question": "ஐம்பெருங்குழு, எண்பேராயம் – சொற்றொடர்கள் உணர்த்தும் இலக்கணம்:",
     "options": [
@@ -71,25 +90,6 @@
     "sourceName": "BrainKart — இயல் 3 Book Back Q&A",
     "additionalSourceUrls": [
       "https://www.brainkart.in/article/Questions-and-Answers-Part-II_11625/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
-  },
-  {
-    "id": "9_tam_u3_q3",
-    "question": "பின்வருவனவற்றுள் தவறான செய்தியைத் தரும் தொடர் –",
-    "options": [
-      "அரிக்கமேடு அகழாய்வில் ரோமானிய நாணயங்கள் கிடைத்தன.",
-      "புறப்பொருள் வெண்பாமாலை என்னும் இலக்கண நூலிலும் ஏறுகோள் குறித்துக் கூறப்பட்டுள்ளது.",
-      "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களின் பின் வல்லினம் மிகாது.",
-      "பட்டிமண்டபம் பற்றிய குறிப்பு மணிமேகலையில் காணப்படுகிறது."
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களுக்குப் பின் வல்லினம் மிகும் இடங்கள் உள்ளதால் “மிகாது” எனக் கூறும் மூன்றாவது செய்தியே தவறானது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
-    "sourceName": "BrainKart / OMTEX — இயல் 3 திருக்குறள்",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
