@@ -19,25 +19,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
   },
   {
-    "id": "9_tam_u7_q6",
-    "question": "கூற்று - இந்திய தேசிய இராணுவப்படைத் தலைவராக இருந்த தில்லான், ”இந்திய தேசிய இராணுவத்தின் இதயமும் ஆத்மாவும் தமிழர்கள்தான்” என்றார்.\nகாரணம் - இந்திய தேசிய இராணுவத்திற்கு வலுச்சேர்த்த பெருமைக்கு உரியவர்கள் தமிழர்கள்.",
-    "options": [
-      "கூற்று சரி; காரணம் சரி",
-      "கூற்று சரி; காரணம் தவறு",
-      "கூற்று தவறு; காரணம் சரி",
-      "கூற்று தவறு; காரணம் தவறு"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "தில்லான் கூற்றும் அதற்கான காரணமும் சரி என answer source தருகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
     "id": "9_tam_u7_q2",
     "question": "சொல்லும் பொருளும் பொருந்தியுள்ளது எது?",
     "options": [
@@ -109,6 +90,25 @@
     "sourceName": "BrainKart / Tamil guide — இயல் 7",
     "additionalSourceUrls": [
       "https://www.saranextgen.com/homeworkhelp/index.php?id=15876"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q6",
+    "question": "கூற்று - இந்திய தேசிய இராணுவப்படைத் தலைவராக இருந்த தில்லான், ”இந்திய தேசிய இராணுவத்தின் இதயமும் ஆத்மாவும் தமிழர்கள்தான்” என்றார்.\nகாரணம் - இந்திய தேசிய இராணுவத்திற்கு வலுச்சேர்த்த பெருமைக்கு உரியவர்கள் தமிழர்கள்.",
+    "options": [
+      "கூற்று சரி; காரணம் சரி",
+      "கூற்று சரி; காரணம் தவறு",
+      "கூற்று தவறு; காரணம் சரி",
+      "கூற்று தவறு; காரணம் தவறு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தில்லான் கூற்றும் அதற்கான காரணமும் சரி என answer source தருகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
