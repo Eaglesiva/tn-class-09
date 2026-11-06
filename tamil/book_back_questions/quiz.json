@@ -95,6 +95,25 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11607/"
   },
   {
+    "id": "9_tam_u2_q1",
+    "question": "“மிசை” – என்பதன் எதிர்ச்சொல் என்ன?",
+    "options": [
+      "கீழே",
+      "மேலே",
+      "இசை",
+      "வசை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“மிசை” என்பதற்கு மேலே என்ற பொருள்; அதன் எதிர்ச்சொல் கீழே.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
+    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
+  },
+  {
     "id": "9_tam_u2_q2",
     "question": "நீர் நிலைகளோடு தொடர்பில்லாதது எது?",
     "options": [
@@ -109,6 +128,25 @@
     "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
     "additionalSourceUrls": [
       "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-2-uyirukku-ver-questions-and-answers-samacheer-kalvi-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
+  },
+  {
+    "id": "9_tam_u2_q3",
+    "question": "பொருத்தமான விடையைத் தேர்க.",
+    "options": [
+      "அ, இ",
+      "ஆ, இ",
+      "அ, ஆ",
+      "அ, ஆ, இ"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மூன்று கூற்றுகளும் சரியானவை: திருவள்ளுவர், ஔவையார், இளங்கோவடிகள் ஆகியோருடன் கொடுக்கப்பட்ட தொடர்கள் பொருந்துகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
+    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
@@ -152,44 +190,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
   },
   {
-    "id": "9_tam_u2_q1",
-    "question": "“மிசை” – என்பதன் எதிர்ச்சொல் என்ன?",
-    "options": [
-      "கீழே",
-      "மேலே",
-      "இசை",
-      "வசை"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "“மிசை” என்பதற்கு மேலே என்ற பொருள்; அதன் எதிர்ச்சொல் கீழே.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
-    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
-  },
-  {
-    "id": "9_tam_u2_q3",
-    "question": "பொருத்தமான விடையைத் தேர்க.",
-    "options": [
-      "அ, இ",
-      "ஆ, இ",
-      "அ, ஆ",
-      "அ, ஆ, இ"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "மூன்று கூற்றுகளும் சரியானவை: திருவள்ளுவர், ஔவையார், இளங்கோவடிகள் ஆகியோருடன் கொடுக்கப்பட்ட தொடர்கள் பொருந்துகின்றன.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/",
-    "sourceName": "BrainKart — இயல் 2 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-2-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11616/"
-  },
-  {
     "id": "9_tam_u3_q1",
     "question": "பொருந்தாத இணை எது?",
     "options": [
@@ -228,6 +228,25 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
   },
   {
+    "id": "9_tam_u3_q3",
+    "question": "பின்வருவனவற்றுள் தவறான செய்தியைத் தரும் தொடர் –",
+    "options": [
+      "அரிக்கமேடு அகழாய்வில் ரோமானிய நாணயங்கள் கிடைத்தன.",
+      "புறப்பொருள் வெண்பாமாலை என்னும் இலக்கண நூலிலும் ஏறுகோள் குறித்துக் கூறப்பட்டுள்ளது.",
+      "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களின் பின் வல்லினம் மிகாது.",
+      "பட்டிமண்டபம் பற்றிய குறிப்பு மணிமேகலையில் காணப்படுகிறது."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களுக்குப் பின் வல்லினம் மிகும் இடங்கள் உள்ளதால் “மிகாது” எனக் கூறும் மூன்றாவது செய்தியே தவறானது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
+    "sourceName": "BrainKart / OMTEX — இயல் 3 திருக்குறள்",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
+  },
+  {
     "id": "9_tam_u3_q4",
     "question": "ஐம்பெருங்குழு, எண்பேராயம் – சொற்றொடர்கள் உணர்த்தும் இலக்கணம்:",
     "options": [
@@ -261,25 +280,6 @@
     "sourceName": "BrainKart — இயல் 3 Book Back Q&A",
     "additionalSourceUrls": [
       "https://www.brainkart.in/article/Questions-and-Answers-Part-II_11625/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
-  },
-  {
-    "id": "9_tam_u3_q3",
-    "question": "பின்வருவனவற்றுள் தவறான செய்தியைத் தரும் தொடர் –",
-    "options": [
-      "அரிக்கமேடு அகழாய்வில் ரோமானிய நாணயங்கள் கிடைத்தன.",
-      "புறப்பொருள் வெண்பாமாலை என்னும் இலக்கண நூலிலும் ஏறுகோள் குறித்துக் கூறப்பட்டுள்ளது.",
-      "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களின் பின் வல்லினம் மிகாது.",
-      "பட்டிமண்டபம் பற்றிய குறிப்பு மணிமேகலையில் காணப்படுகிறது."
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "எட்டு, பத்து ஆகிய எண்ணுப் பெயர்களுக்குப் பின் வல்லினம் மிகும் இடங்கள் உள்ளதால் “மிகாது” எனக் கூறும் மூன்றாவது செய்தியே தவறானது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/",
-    "sourceName": "BrainKart / OMTEX — இயல் 3 திருக்குறள்",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11624/"
@@ -422,25 +422,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/"
   },
   {
-    "id": "9_tam_u4_q5",
-    "question": "விடை வரிசையைத் தேர்க:\nஅ) இது செயற்கைக்கோள் ஏவு ஊர்தியின் செயல்பாட்டை முன்கூட்டியே கணிக்கும்.\n   ஆ) இது கடல் பயணத்துக்காக உருவாக்கப்பட்ட செயலி.",
-    "options": [
-      "நேவிக், சித்தாரா",
-      "நேவிக், வானூர்தி",
-      "வானூர்தி, சித்தாரா",
-      "சித்தாரா, நேவிக்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "ஏவு ஊர்திச் செயல்பாட்டைக் கணிப்பது சித்தாரா; கடற்பயணச் செயலி நேவிக்.",
-    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/",
-    "sourceName": "BrainKart — இயல் 4 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/"
-  },
-  {
     "id": "9_tam_u4_q4",
     "question": "பின்வரும் தொடர்களைப் படித்து ‘நான்’ யார் என்று கண்டுபிடிக்க:\nஅறிவியல் வாகனத்தில் நிறுத்தப்படுவேன்\nஎல்லாக் கோளிலும் ஏற்றப்படுவேன்\nஇளையவர் கூட்டம் என்னை ஏந்தி நடப்பர்",
     "options": [
@@ -451,6 +432,25 @@
     ],
     "correctOptionIndex": 1,
     "explanation": "கொடுக்கப்பட்ட கவிதை வரிகள் தமிழ்மொழியை அறிவியல் வாகனத்தில் ஏற்றிச் செல்லப்படுவதாகக் குறிப்பிடுகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/",
+    "sourceName": "BrainKart — இயல் 4 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-4-o-en-samakala-thozhargale-book-back-questions-and-answers.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/"
+  },
+  {
+    "id": "9_tam_u4_q5",
+    "question": "விடை வரிசையைத் தேர்க:\nஅ) இது செயற்கைக்கோள் ஏவு ஊர்தியின் செயல்பாட்டை முன்கூட்டியே கணிக்கும்.\n   ஆ) இது கடல் பயணத்துக்காக உருவாக்கப்பட்ட செயலி.",
+    "options": [
+      "நேவிக், சித்தாரா",
+      "நேவிக், வானூர்தி",
+      "வானூர்தி, சித்தாரா",
+      "சித்தாரா, நேவிக்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ஏவு ஊர்திச் செயல்பாட்டைக் கணிப்பது சித்தாரா; கடற்பயணச் செயலி நேவிக்.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11633/",
     "sourceName": "BrainKart — இயல் 4 Book Back Q&A",
     "additionalSourceUrls": [
@@ -479,25 +479,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
   },
   {
-    "id": "9_tam_u5_q3",
-    "question": "கீழ்க்காண்பனவற்றுள் உணர்ச்சித் தொடர் எது?",
-    "options": [
-      "சிறுபஞ்ச மூலத்தில் உள்ள பாடல்கள் பெரும்பாலும் மகடூஉ முன்னிலையில் அமைந்துள்ளன.",
-      "இந்திய நூலகவியலின் தந்தையென அறியப்படுபவர் யார்?",
-      "என்னண்ணே! நீங்கள் சொல்வதை நம்பவே முடியவில்லை!",
-      "வாழ்க்கையில் அடிப்படைத் தேவைகளுக்கு அடுத்த இடத்தைப் புத்தகசாலைக்குத் தருக."
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "உணர்ச்சி வெளிப்படும் தொடர் “என்னண்ணே! நீங்கள் சொல்வதை நம்பவே முடியவில்லை!”.",
-    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/",
-    "sourceName": "BrainKart — இயல் 5 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
-  },
-  {
     "id": "9_tam_u5_q2",
     "question": "மாறுபட்டுள்ள குழுவினைக் கண்டறிக.",
     "options": [
@@ -512,6 +493,25 @@
     "sourceName": "BrainKart — இயல் 5 Book Back Q&A",
     "additionalSourceUrls": [
       "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-5-4"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
+  },
+  {
+    "id": "9_tam_u5_q3",
+    "question": "கீழ்க்காண்பனவற்றுள் உணர்ச்சித் தொடர் எது?",
+    "options": [
+      "சிறுபஞ்ச மூலத்தில் உள்ள பாடல்கள் பெரும்பாலும் மகடூஉ முன்னிலையில் அமைந்துள்ளன.",
+      "இந்திய நூலகவியலின் தந்தையென அறியப்படுபவர் யார்?",
+      "என்னண்ணே! நீங்கள் சொல்வதை நம்பவே முடியவில்லை!",
+      "வாழ்க்கையில் அடிப்படைத் தேவைகளுக்கு அடுத்த இடத்தைப் புத்தகசாலைக்குத் தருக."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "உணர்ச்சி வெளிப்படும் தொடர் “என்னண்ணே! நீங்கள் சொல்வதை நம்பவே முடியவில்லை!”.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/",
+    "sourceName": "BrainKart — இயல் 5 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.omtexclasses.com/2025/08/9th-tamil-iyal-5-kasadara-mozhithal-book-back-questions-and-answers.html"
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11641/"
@@ -726,313 +726,6 @@
     "explanationSourceUrl": "https://www.studentsguide360.com/9th-tamil-guide-unit-6-6/"
   },
   {
-    "id": "9_tam_u7_q1",
-    "question": "இந்திய தேசிய இராணுவத்தை .................. தலைமையில் .................. உருவாக்கினர்.",
-    "options": [
-      "சுபாஷ் சந்திரபோஸ், இந்தியர்",
-      "சுபாஷ் சந்திரபோஸ், ஜப்பானியர்",
-      "மோகன்சிங், ஜப்பானியர்",
-      "மோகன்சிங், இந்தியர்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "இந்திய தேசிய இராணுவத்தை மோகன்சிங் தலைமையில் ஜப்பானியர் உதவியுடன் உருவாக்கினர்.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
-    "id": "9_tam_u7_q6",
-    "question": "கூற்று - இந்திய தேசிய இராணுவப்படைத் தலைவராக இருந்த தில்லான், ”இந்திய தேசிய இராணுவத்தின் இதயமும் ஆத்மாவும் தமிழர்கள்தான்” என்றார்.\nகாரணம் - இந்திய தேசிய இராணுவத்திற்கு வலுச்சேர்த்த பெருமைக்கு உரியவர்கள் தமிழர்கள்.",
-    "options": [
-      "கூற்று சரி; காரணம் சரி",
-      "கூற்று சரி; காரணம் தவறு",
-      "கூற்று தவறு; காரணம் சரி",
-      "கூற்று தவறு; காரணம் தவறு"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "தில்லான் கூற்றும் அதற்கான காரணமும் சரி என answer source தருகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
-    "id": "9_tam_u7_q2",
-    "question": "சொல்லும் பொருளும் பொருந்தியுள்ளது எது?",
-    "options": [
-      "பருக்கை – இருக்கை",
-      "புள் – தாவரம்",
-      "அள்ளல் – சேறு",
-      "மடிவு – தொடக்கம்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "“அள்ளல்” என்பதன் பொருள் சேறு.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart / Tamil guide — இயல் 7",
-    "additionalSourceUrls": [
-      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
-    "id": "9_tam_u7_q3",
-    "question": "இளங்கமுகு, செய்கோலம் – இலக்கணக்குறிப்புத் தருக:",
-    "options": [
-      "உருவகத்தொடர், வினைத்தொகை",
-      "பண்புத்தொகை, வினைத்தொகை",
-      "வினைத்தொகை, பண்புத்தொகை",
-      "பண்புத்தொகை, உருவகத்தொடர்"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "இளங்கமுகு பண்புத்தொகை; செய்கோலம் வினைத்தொகை.",
-    "sourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3",
-    "sourceName": "BrainKart / Tamil guide — இயல் 7",
-    "additionalSourceUrls": [
-      "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3"
-  },
-  {
-    "id": "9_tam_u7_q4",
-    "question": "நச்சிலைவேல் கோக்கோதை நாடு, நல்யானைக் கோக்கிள்ளி நாடு - இத்தொடர்களில் குறிப்பிடப்படுகின்ற நாடுகள் முறையே,",
-    "options": [
-      "பாண்டிய நாடு, சேர நாடு",
-      "சோழ நாடு, சேர நாடு",
-      "சேர நாடு, சோழ நாடு",
-      "சோழ நாடு, பாண்டிய நாடு"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "கோக்கோதை சேர நாட்டையும், கோக்கிள்ளி சோழ நாட்டையும் குறிக்கிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart / Tamil guide — இயல் 7",
-    "additionalSourceUrls": [
-      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
-    "id": "9_tam_u7_q5",
-    "question": "வெறிகமழ் கழனியுள் உழுநர் வெள்ளமே – இவ்வடி உணர்த்தும் பொருள் யாது?",
-    "options": [
-      "மணம் கமழும் வயலில் உழவர் வெள்ளமாய் உழுதிருந்தனர்",
-      "வறண்ட வயலில் உழவர் வெள்ளமாய் அமர்ந்திருந்தனர்",
-      "செறிவான வயலில் உழவர் வெள்ளமாய்க் கூடியிருந்தனர்",
-      "பசுமையான வயலில் உழவர் வெள்ளமாய் நிறைந்திருந்தனர்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "“வெறிகமழ்” மணம் கமழும் என்பதையும், “உழுநர் வெள்ளம்” உழவர் கூட்டத்தையும் குறிக்கிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
-    "sourceName": "BrainKart / Tamil guide — இயல் 7",
-    "additionalSourceUrls": [
-      "https://www.saranextgen.com/homeworkhelp/index.php?id=15876"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
-  },
-  {
-    "id": "9_tam_u8_q1",
-    "question": "கூற்று - பெரியார் உயிர் எழுத்துகளில் ’ஐ’ என்பதனை ’அய்’ எனவும், ’ஒள’ என்பதனை ’அவ்’ எனவும் சீரமைத்தார்.\nகாரணம் – சில எழுத்துகளைக் குறைப்பதன் வாயிலாகத் தமிழ் எழுத்துகளின் எண்ணிக்கையைக் குறைக்கலாம் என்று எண்ணினார்.",
-    "options": [
-      "கூற்று சரி, காரணம் தவறு",
-      "கூற்று, காரணம் இரண்டும் சரி",
-      "கூற்று, காரணம் இரண்டும் தவறு",
-      "கூற்று தவறு, காரணம் சரி"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "கூற்றும் காரணமும் இரண்டும் சரி என answer source தருகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
-  },
-  {
-    "id": "9_tam_u8_q4",
-    "question": "விடைக்கேற்ற வினாவைத் தேர்க:\nவிடை – பானையின் வெற்றிடமே நமக்குப் பயன்படுகிறது.",
-    "options": [
-      "பானையின் எப்பகுதி நமக்குப் பயன்படுகிறது?",
-      "பானை எப்படி நமக்குப் பயன்படுகிறது?",
-      "பானை எதனால் நமக்குப் பயன்படுகிறது?",
-      "பானை எங்கு நமக்குப் பயன்படுகிறது?"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "விடை “பானையின் வெற்றிடம்” என்பதால் இந்த வினா பொருந்துகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
-  },
-  {
-    "id": "9_tam_u8_q2",
-    "question": "காலத்தினால் செய்த நன்றி சிறிதெனினும்\nஞாலத்தின் மாணப் பெரிது\n- இக்குறளின் ஈற்றுச் சீரின் வாய்பாடு யாது?",
-    "options": [
-      "நாள்",
-      "மலர்",
-      "காசு",
-      "பிறப்பு"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "குறளின் ஈற்றுச்சீர் “பெரிது”; அதன் வாய்பாடு பிறப்பு என prosody guide-கள் தருகின்றன.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html",
-      "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
-  },
-  {
-    "id": "9_tam_u8_q3",
-    "question": "முண்டி மோதும் துணிவே இன்பம் – இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது",
-    "options": [
-      "மகிழ்ச்சி",
-      "வியப்பு",
-      "துணிவு",
-      "மருட்சி"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு.",
-    "sourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf",
-    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
-    "additionalSourceUrls": [
-      "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-8-2/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
-  },
-  {
-    "id": "9_tam_u8_q5",
-    "question": "‘ஞானம்’ என்பதன் பொருள் யாது?",
-    "options": [
-      "தானம்",
-      "தெளிவு",
-      "சினம்",
-      "அறிவு"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "ஞானம் என்பதன் பொருள் அறிவு.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
-  },
-  {
-    "id": "9_tam_u9_q1",
-    "question": "இமயத்துக் கோடு உயர்ந்தன்ன – இவ்வடியில் அடிக்கோடிட்ட சொல்லின் பொருள் யாது?",
-    "options": [
-      "கொம்பு",
-      "மலையுச்சி",
-      "சங்கு",
-      "மேடு"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "“கோடு” என்பதற்கு இவ்வடியில் மலையுச்சி என answer page தருகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11677/",
-    "sourceName": "BrainKart — இயல் 9 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11677/"
-  },
-  {
-    "id": "9_tam_u9_q2",
-    "question": "தமிழ்ப் புலவரைப் போலவே உரோமச் சிந்தனையாளர் கொண்ட கொள்கை",
-    "options": [
-      "நிலையற்ற வாழ்க்கை",
-      "பிறருக்காக வாழ்தல்",
-      "இம்மை மறுமை",
-      "ஒன்றே உலகம்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "தமிழ்ப் புலவர் மற்றும் உரோமச் சிந்தனையாளர் இருவரும் உலகை ஒன்றாகக் காணும் கொள்கையைப் பகிர்ந்தனர்.",
-    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
-    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
-  },
-  {
-    "id": "9_tam_u9_q3",
-    "question": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல்",
-    "options": [
-      "ஒரு சிறு இசை",
-      "முன்பின்",
-      "அந்நியமற்ற நதி",
-      "உயரப் பறத்தல்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல் “ஒரு சிறு இசை”.",
-    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
-    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
-  },
-  {
-    "id": "9_tam_u9_q4",
-    "question": "யா மரம் என்பது எந்த நிலத்தில் வளரும்?",
-    "options": [
-      "குறிஞ்சி",
-      "மருதம்",
-      "பாலை",
-      "நெய்தல்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "யா மரம் பாலை நிலத்துடன் தொடர்புடைய மரமாகக் குறிப்பிடப்படுகிறது.",
-    "sourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf",
-    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
-    "additionalSourceUrls": [
-      "https://braingrain.in/grade9-tamil/chapter_09-9",
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf"
-  },
-  {
-    "id": "9_tam_u9_q5",
-    "question": "கேடில் விழுச் செல்வம் கல்வி ஒருவற்கு\nமாடல்ல மற்றை யவை\n- இக்குறளில் பயின்று வந்துள்ள அணி?",
-    "options": [
-      "சொல் பின்வருநிலையணி",
-      "பொருள் பின்வருநிலையணி",
-      "சொற்பொருள் பின்வருநிலையணி",
-      "வஞ்சப் புகழ்ச்சியணி"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "கல்வி என்ற செல்வத்தையும் “மாடு” என்ற சொல்லையும் ஒரே பொருளில் (செல்வம்) குறிப்பதால் பொருள் பின்வருநிலையணி என வகைப்படுத்தப்படுகிறது.",
-    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
-    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-5/"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
-  },
-  {
     "id": "9_tam_u6_tkq4c",
     "question": "தான் நாணான் ஆயின் ______ நாணத் தக்கது.",
     "options": [
@@ -1164,5 +857,312 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11651/"
+  },
+  {
+    "id": "9_tam_u7_q1",
+    "question": "இந்திய தேசிய இராணுவத்தை .................. தலைமையில் .................. உருவாக்கினர்.",
+    "options": [
+      "சுபாஷ் சந்திரபோஸ், இந்தியர்",
+      "சுபாஷ் சந்திரபோஸ், ஜப்பானியர்",
+      "மோகன்சிங், ஜப்பானியர்",
+      "மோகன்சிங், இந்தியர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இந்திய தேசிய இராணுவத்தை மோகன்சிங் தலைமையில் ஜப்பானியர் உதவியுடன் உருவாக்கினர்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q2",
+    "question": "சொல்லும் பொருளும் பொருந்தியுள்ளது எது?",
+    "options": [
+      "பருக்கை – இருக்கை",
+      "புள் – தாவரம்",
+      "அள்ளல் – சேறு",
+      "மடிவு – தொடக்கம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "“அள்ளல்” என்பதன் பொருள் சேறு.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q3",
+    "question": "இளங்கமுகு, செய்கோலம் – இலக்கணக்குறிப்புத் தருக:",
+    "options": [
+      "உருவகத்தொடர், வினைத்தொகை",
+      "பண்புத்தொகை, வினைத்தொகை",
+      "வினைத்தொகை, பண்புத்தொகை",
+      "பண்புத்தொகை, உருவகத்தொடர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இளங்கமுகு பண்புத்தொகை; செய்கோலம் வினைத்தொகை.",
+    "sourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-9-tamil-chapter-7-3"
+  },
+  {
+    "id": "9_tam_u7_q4",
+    "question": "நச்சிலைவேல் கோக்கோதை நாடு, நல்யானைக் கோக்கிள்ளி நாடு - இத்தொடர்களில் குறிப்பிடப்படுகின்ற நாடுகள் முறையே,",
+    "options": [
+      "பாண்டிய நாடு, சேர நாடு",
+      "சோழ நாடு, சேர நாடு",
+      "சேர நாடு, சோழ நாடு",
+      "சோழ நாடு, பாண்டிய நாடு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கோக்கோதை சேர நாட்டையும், கோக்கிள்ளி சோழ நாட்டையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/06/9th-tamil-book-back-answers-unit-7-guide-tamilnadu-school-books.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q5",
+    "question": "வெறிகமழ் கழனியுள் உழுநர் வெள்ளமே – இவ்வடி உணர்த்தும் பொருள் யாது?",
+    "options": [
+      "மணம் கமழும் வயலில் உழவர் வெள்ளமாய் உழுதிருந்தனர்",
+      "வறண்ட வயலில் உழவர் வெள்ளமாய் அமர்ந்திருந்தனர்",
+      "செறிவான வயலில் உழவர் வெள்ளமாய்க் கூடியிருந்தனர்",
+      "பசுமையான வயலில் உழவர் வெள்ளமாய் நிறைந்திருந்தனர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“வெறிகமழ்” மணம் கமழும் என்பதையும், “உழுநர் வெள்ளம்” உழவர் கூட்டத்தையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart / Tamil guide — இயல் 7",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15876"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u7_q6",
+    "question": "கூற்று - இந்திய தேசிய இராணுவப்படைத் தலைவராக இருந்த தில்லான், ”இந்திய தேசிய இராணுவத்தின் இதயமும் ஆத்மாவும் தமிழர்கள்தான்” என்றார்.\nகாரணம் - இந்திய தேசிய இராணுவத்திற்கு வலுச்சேர்த்த பெருமைக்கு உரியவர்கள் தமிழர்கள்.",
+    "options": [
+      "கூற்று சரி; காரணம் சரி",
+      "கூற்று சரி; காரணம் தவறு",
+      "கூற்று தவறு; காரணம் சரி",
+      "கூற்று தவறு; காரணம் தவறு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தில்லான் கூற்றும் அதற்கான காரணமும் சரி என answer source தருகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/",
+    "sourceName": "BrainKart — இயல் 7 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.thamizhpozhil.com/2025/06/9-th-std-tamil-question-and-answers_63.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11659/"
+  },
+  {
+    "id": "9_tam_u8_q1",
+    "question": "கூற்று - பெரியார் உயிர் எழுத்துகளில் ’ஐ’ என்பதனை ’அய்’ எனவும், ’ஒள’ என்பதனை ’அவ்’ எனவும் சீரமைத்தார்.\nகாரணம் – சில எழுத்துகளைக் குறைப்பதன் வாயிலாகத் தமிழ் எழுத்துகளின் எண்ணிக்கையைக் குறைக்கலாம் என்று எண்ணினார்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று, காரணம் இரண்டும் சரி",
+      "கூற்று, காரணம் இரண்டும் தவறு",
+      "கூற்று தவறு, காரணம் சரி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கூற்றும் காரணமும் இரண்டும் சரி என answer source தருகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u8_q2",
+    "question": "காலத்தினால் செய்த நன்றி சிறிதெனினும்\nஞாலத்தின் மாணப் பெரிது\n- இக்குறளின் ஈற்றுச் சீரின் வாய்பாடு யாது?",
+    "options": [
+      "நாள்",
+      "மலர்",
+      "காசு",
+      "பிறப்பு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "குறளின் ஈற்றுச்சீர் “பெரிது”; அதன் வாய்பாடு பிறப்பு என prosody guide-கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html",
+      "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u8_q3",
+    "question": "முண்டி மோதும் துணிவே இன்பம் – இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது",
+    "options": [
+      "மகிழ்ச்சி",
+      "வியப்பு",
+      "துணிவு",
+      "மருட்சி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இவ்வடியில் இன்பமாக உருவகிக்கப்படுவது துணிவு.",
+    "sourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+      "https://www.virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-8-2/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
+  },
+  {
+    "id": "9_tam_u8_q4",
+    "question": "விடைக்கேற்ற வினாவைத் தேர்க:\nவிடை – பானையின் வெற்றிடமே நமக்குப் பயன்படுகிறது.",
+    "options": [
+      "பானையின் எப்பகுதி நமக்குப் பயன்படுகிறது?",
+      "பானை எப்படி நமக்குப் பயன்படுகிறது?",
+      "பானை எதனால் நமக்குப் பயன்படுகிறது?",
+      "பானை எங்கு நமக்குப் பயன்படுகிறது?"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "விடை “பானையின் வெற்றிடம்” என்பதால் இந்த வினா பொருந்துகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u8_q5",
+    "question": "‘ஞானம்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "தானம்",
+      "தெளிவு",
+      "சினம்",
+      "அறிவு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ஞானம் என்பதன் பொருள் அறிவு.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart / TamilVithai / CBSE Tamil references — இயல் 8",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2023/01/9th-tamil-unit-8-special-guide-pdf.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
+  },
+  {
+    "id": "9_tam_u9_q1",
+    "question": "இமயத்துக் கோடு உயர்ந்தன்ன – இவ்வடியில் அடிக்கோடிட்ட சொல்லின் பொருள் யாது?",
+    "options": [
+      "கொம்பு",
+      "மலையுச்சி",
+      "சங்கு",
+      "மேடு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“கோடு” என்பதற்கு இவ்வடியில் மலையுச்சி என answer page தருகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11677/",
+    "sourceName": "BrainKart — இயல் 9 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11677/"
+  },
+  {
+    "id": "9_tam_u9_q2",
+    "question": "தமிழ்ப் புலவரைப் போலவே உரோமச் சிந்தனையாளர் கொண்ட கொள்கை",
+    "options": [
+      "நிலையற்ற வாழ்க்கை",
+      "பிறருக்காக வாழ்தல்",
+      "இம்மை மறுமை",
+      "ஒன்றே உலகம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "தமிழ்ப் புலவர் மற்றும் உரோமச் சிந்தனையாளர் இருவரும் உலகை ஒன்றாகக் காணும் கொள்கையைப் பகிர்ந்தனர்.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
+  },
+  {
+    "id": "9_tam_u9_q3",
+    "question": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல்",
+    "options": [
+      "ஒரு சிறு இசை",
+      "முன்பின்",
+      "அந்நியமற்ற நதி",
+      "உயரப் பறத்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வண்ணதாசனுக்குச் சாகித்திய அகாதெமி விருது பெற்றுத் தந்த நூல் “ஒரு சிறு இசை”.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
+  },
+  {
+    "id": "9_tam_u9_q4",
+    "question": "யா மரம் என்பது எந்த நிலத்தில் வளரும்?",
+    "options": [
+      "குறிஞ்சி",
+      "மருதம்",
+      "பாலை",
+      "நெய்தல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "யா மரம் பாலை நிலத்துடன் தொடர்புடைய மரமாகக் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://braingrain.in/grade9-tamil/chapter_09-9",
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-1/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://dl.tamilbookspdf.com/Tamil%20Guide%20Books/Tamil%20Class%209th%20guide/9th%20Tamil%20Guide/9th%20Tamil%20Guide%20Unit%209%20-%20Surya%20Publications.pdf"
+  },
+  {
+    "id": "9_tam_u9_q5",
+    "question": "கேடில் விழுச் செல்வம் கல்வி ஒருவற்கு\nமாடல்ல மற்றை யவை\n- இக்குறளில் பயின்று வந்துள்ள அணி?",
+    "options": [
+      "சொல் பின்வருநிலையணி",
+      "பொருள் பின்வருநிலையணி",
+      "சொற்பொருள் பின்வருநிலையணி",
+      "வஞ்சப் புகழ்ச்சியணி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கல்வி என்ற செல்வத்தையும் “மாடு” என்ற சொல்லையும் ஒரே பொருளில் (செல்வம்) குறிப்பதால் பொருள் பின்வருநிலையணி என வகைப்படுத்தப்படுகிறது.",
+    "sourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9",
+    "sourceName": "Brain Grain / VirkozKalvi — இயல் 9",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-9th-tamil-books-chapter-9-5/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://braingrain.in/grade9-tamil/chapter_09-9"
   }
 ]
