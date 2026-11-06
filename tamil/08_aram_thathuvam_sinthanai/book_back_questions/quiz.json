@@ -19,25 +19,6 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
   },
   {
-    "id": "9_tam_u8_q4",
-    "question": "விடைக்கேற்ற வினாவைத் தேர்க:\nவிடை – பானையின் வெற்றிடமே நமக்குப் பயன்படுகிறது.",
-    "options": [
-      "பானையின் எப்பகுதி நமக்குப் பயன்படுகிறது?",
-      "பானை எப்படி நமக்குப் பயன்படுகிறது?",
-      "பானை எதனால் நமக்குப் பயன்படுகிறது?",
-      "பானை எங்கு நமக்குப் பயன்படுகிறது?"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "விடை “பானையின் வெற்றிடம்” என்பதால் இந்த வினா பொருந்துகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
-    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
-    "additionalSourceUrls": [
-      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
-  },
-  {
     "id": "9_tam_u8_q2",
     "question": "காலத்தினால் செய்த நன்றி சிறிதெனினும்\nஞாலத்தின் மாணப் பெரிது\n- இக்குறளின் ஈற்றுச் சீரின் வாய்பாடு யாது?",
     "options": [
@@ -76,6 +57,25 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/9th-Tamil-CBSE_V24.pdf"
+  },
+  {
+    "id": "9_tam_u8_q4",
+    "question": "விடைக்கேற்ற வினாவைத் தேர்க:\nவிடை – பானையின் வெற்றிடமே நமக்குப் பயன்படுகிறது.",
+    "options": [
+      "பானையின் எப்பகுதி நமக்குப் பயன்படுகிறது?",
+      "பானை எப்படி நமக்குப் பயன்படுகிறது?",
+      "பானை எதனால் நமக்குப் பயன்படுகிறது?",
+      "பானை எங்கு நமக்குப் பயன்படுகிறது?"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "விடை “பானையின் வெற்றிடம்” என்பதால் இந்த வினா பொருந்துகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/",
+    "sourceName": "BrainKart — இயல் 8 Book Back Q&A",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2026/02/9th-tamil-onemark-book-back-questions.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11668/"
   },
   {
     "id": "9_tam_u8_q5",
