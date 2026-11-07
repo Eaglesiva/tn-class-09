@@ -1,0 +1,20 @@
+{
+  "book_id": "class_09_science_tm",
+  "class": "9",
+  "subject": "Science",
+  "medium": "Tamil",
+  "official_filename": "9th_Science_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 80753276,
+  "etag": "0df440d95be352123262a922dcee51b6",
+  "last_modified": "Thu, 22 Oct 2026 07:29:06 GMT",
+  "sha256": "926439263715f3480c7c675741b2ac76014fd801f5d72cd9791d7cb531f793b5",
+  "expected_page_count": 336,
+  "actual_page_count": 336,
+  "pages_replaced_count": 336,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:17:37Z",
+  "zero_master_pdf_persistence_verified": true
+}
