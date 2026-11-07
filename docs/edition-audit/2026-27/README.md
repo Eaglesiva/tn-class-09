@@ -24,3 +24,8 @@ See the [Common SCERT Edition Verification Blueprint](https://github.com/Eaglesi
 ## Common master register
 
 [Open Class 9 in the one-click Master Cross-Verification Index](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/MASTER_CROSS_VERIFICATION_INDEX.md#class-9)
+
+## Supplementary refresh evidence
+
+- [Page-2 side-by-side comparison](class9_page2_comparison.md)
+- [Refresh evidence folder](refresh_evidence/)
