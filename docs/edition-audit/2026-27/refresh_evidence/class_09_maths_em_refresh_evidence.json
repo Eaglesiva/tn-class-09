@@ -1,0 +1,20 @@
+{
+  "book_id": "class_09_maths_em",
+  "class": "9",
+  "subject": "Mathematics",
+  "medium": "English",
+  "official_filename": "9th_Maths_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Maths_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 25990268,
+  "etag": "fd8202dd796228d6b815afde331d1b72",
+  "last_modified": "Thu, 22 Oct 2026 07:29:03 GMT",
+  "sha256": "09a3c7ce5f55e630652042bc9b7201a54b38e954771acfd3939f580c558bbae2",
+  "expected_page_count": 328,
+  "actual_page_count": 328,
+  "pages_replaced_count": 328,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:17:27Z",
+  "zero_master_pdf_persistence_verified": true
+}
