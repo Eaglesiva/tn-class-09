@@ -1,0 +1,20 @@
+{
+  "book_id": "class_09_science_em",
+  "class": "9",
+  "subject": "Science",
+  "medium": "English",
+  "official_filename": "9th_Science_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/9th_Science_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 94344199,
+  "etag": "2b43a359d36266097951483f8648055d",
+  "last_modified": "Thu, 22 Oct 2026 07:29:05 GMT",
+  "sha256": "e142c38d321fc3a44e67e81df118abcde1f05cb48268313f0ef60dd25dce32a5",
+  "expected_page_count": 328,
+  "actual_page_count": 328,
+  "pages_replaced_count": 328,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:17:49Z",
+  "zero_master_pdf_persistence_verified": true
+}
